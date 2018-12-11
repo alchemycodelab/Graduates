@@ -1,4 +1,4 @@
-# Alchemy Code Lab FullStack App Demos
+# Alchemy Code Lab FullStack App Descriptions & Graduate Resumes
 
 Welcome to Alchemy Code Lab! 
 
@@ -25,7 +25,7 @@ Comic Swap is built with MongoDB, Express, React, and NodeJS.
  
  # <h2> Nanny Now :: [Mike Lambert](https://www.linkedin.com/in/sarahrehmer/), [Sarah Flynn](https://www.linkedin.com/in/easton-gorishek/) & [Mackenzie Berliner-Glasser](https://www.linkedin.com/in/antreo-pukay/)
   
- Nanny Now is an application that helps third-party child care providers compete in a digital world.
+Nanny Now is an application that helps third-party child care providers compete in a digital world. Built with Express/Node/MongoDB on the back end and React/Redux on the front end, Nanny Now is an application that helps third-party child care providers compete in a digital world.
   
 - https://secure-chamber-20289.herokuapp.com/auth/signin
 - https://github.com/Team-Cookie
