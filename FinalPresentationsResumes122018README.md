@@ -15,10 +15,7 @@ Multnomah Legal Aid is a case management app designed for the local chapter of N
 
 # <h2> Bitfrost :: [Jack Toumey](https://www.linkedin.com/in/kevingrayson/), [Ryan Luras](https://www.linkedin.com/in/carrieacarter/) & [David Chhing](https://www.linkedin.com/in/mariah-adams/)
 
-Bitfrost is a ridesharing app. Think Bifrost, Thor's magical rainbow bridge to Asgard + 'bit' as in a bit of information. The goal is to connect carpoolers. Riders pay on the app, and drivers offer their car for rides now and in the future.
-
-We're going to try to use a bunch of new technologies. MERN, is a start, obviously. We've already set up a CI/CD pipeline with Travis to Heroku. We're going to try to use a couple DBs (Firebase and Mongo), an auth API, Stripe or Paypal for payments, and a Google API for geolocation.
-Comic Swap is built with MongoDB, Express, React, and NodeJS.
+Bitfrost is a ridesharing app. Think Bifrost, Thor's magical rainbow bridge to Asgard + 'bit' as in a bit of information. The goal is to connect carpoolers. Riders pay on the app, and drivers offer their car for rides now and in the future. Building it using the MERN stack, we've already set up a CI/CD pipeline with Travis to Heroku. We're going to try to use a couple DBs (Firebase and Mongo), an auth API, Stripe or Paypal for payments, and a Google API for geolocation. 
   
  - https://github.com/team-electric/bitfrost
  - http://www.bitfrost.tech
