@@ -10,7 +10,7 @@ Our emphasis on process, regular testing and immersive lab sessions allow our gr
   
 # <h2> Multnomah Legal Aid :: [Claire Flanagan](https://www.linkedin.com/in/claire-o-flanagan/), [Karen Painter](https://www.linkedin.com/in/karen-painter-pdx/) & [Alex Rankin](https://www.linkedin.com/in/alexcrankin/)
 Multnomah Legal Aid is a case management app designed for the local chapter of National Lawyers Guild, a non-profit that has provided pro-bono legal observing across the US since 1937. Using MongoDB with Mongoose, Express.js, React with Redux, and Node.js, this app will help the organization better import, organize, and manage data for the people they serve.
-- https://multnomah-legal-aid.herokuapp.com/
+- https://multnomah-legal-aid.herokuapp.com/ (Login with Email: aclu1@gmail.com and Password: password
 - https://github.com/team-rainbow-slinky
 
 # <h2> Bitfrost :: [Jack Toumey](https://www.linkedin.com/in/jacktoumey/), [Ryan Luras](https://www.linkedin.com/in/ryanluras/) & [David Chhing](https://www.linkedin.com/in/davidchhing/)
