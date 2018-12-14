@@ -25,4 +25,4 @@ Bitfrost is a ridesharing app. Think Bifrost, Thor's magical rainbow bridge to A
 Nanny Now is an application that helps third-party child care providers compete in a digital world. Built with Express/Node/MongoDB on the back end and React/Redux on the front end, Nanny Now is an application that helps third-party child care providers compete in a digital world.
   
 - https://github.com/team-party-blob/nannynow 
-- https://dashboard.heroku.com/apps/nanny-now-production
+- https://nanny-now-staging.herokuapp.com/signup
