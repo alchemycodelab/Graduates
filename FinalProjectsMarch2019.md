@@ -25,7 +25,7 @@ Kids2 was built using MongoDB with Mongoose, Express.js, React with Redux,and No
 - www.kidstoopdx.com 
 - https://github.com/team-herd
 
-# <h2> Q Bot :: [CarinPalazzolo](https://www.linkedin.com/in/cari-palazzolo/), [Paige Gorry](https://paigeegorry.netlify.com/), [Kristin Hortsch](https://www.linkedin.com/in/kristinhortsch/) & [Aaron Dennis](https://www.linkedin.com/in/amdennis87/)
+# <h2> Q Bot :: [Cari Palazzolo](https://www.linkedin.com/in/cari-palazzolo/), [Paige Gorry](https://paigeegorry.netlify.com/), [Kristin Hortsch](https://www.linkedin.com/in/kristinhortsch/) & [Aaron Dennis](https://www.linkedin.com/in/amdennis87/)
 
 Q bot is a Slack app for Alchemy Code Lab that adds student questions to Cloud Firestore collections for TA management. Using Slack API’s, React, Firebase/Firestore, and Cloud Functions, this app will help minimize the time it takes TA’s to diagnose student issues, allowing them to filter, sort and manage student questions per cohort.
  - https://qbot.alchemycodelab.io/
