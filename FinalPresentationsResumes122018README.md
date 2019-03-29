@@ -1,4 +1,4 @@
-# Alchemy Code Lab FullStack App Descriptions & Graduate Profiles
+# Alchemy Code Lab FullStack App Descriptions & Graduate Profiles - December 2018
 
 Welcome to Alchemy Code Lab! 
 
