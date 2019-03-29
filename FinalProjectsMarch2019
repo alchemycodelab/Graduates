@@ -1,0 +1,27 @@
+# Alchemy Code Lab FullStack App Descriptions & Graduate Profiles - March 2019
+
+Welcome to [Alchemy Code Lab] (https://www.alchemycodelab.com)! 
+
+These students have just finished more than 800 hours of our professional software development training. They've learned how to harness the FullStack JavaScript capabilities using React and Redux on the Front End with ExpressJS and MongoDB on the Back End (plus a dose of Firebase for realtime communication).
+
+Our emphasis on process, regular testing and immersive lab sessions allow our grads to understand how their coding works and why it does what it does. As the only engineering education in town that serves Portland and Portland only, combined with in-person training by experienced senior software developers, our grads are real contributors. We stay on top of the most used technologies and aim for our grads to evolve Portland's economy and community through the companies they go to work for. [Here is an overview](https://docs.google.com/document/d/1RVKZ4wzOLJn5OeIE-94riRoJGLpwLRG1SuBdGY7sedg/edit?usp=sharing) of their syllabus through our Career Track training.  
+
+# <h2> Below is an overview of the apps our grads are presenting, presenters, and their LinkedIn profiles.
+  
+# <h2> PDX Pop Now :: [Michael Elliot](https://www.linkedin.com/in/designercode/), [Johnny Cruz](https://www.linkedin.com/in/karen-painter-pdx/) [Sophie Graham](https://www.linkedin.com/in/sophiergraham/) [Ivan Poblete](https://www.linkedin.com/in/ivan-poblete/) & [Tyler Corbett](https://www.linkedin.com/in/tyler-corbett/)
+Multnomah Legal Aid is a case management app designed for the local chapter of National Lawyers Guild, a non-profit that has provided pro-bono legal observing across the US since 1937. Using MongoDB with Mongoose, Express.js, React with Redux, and Node.js, this app will help the organization better import, organize, and manage data for the people they serve.
+- https://pdxpopnow.netlify.com/
+- https://github.com/team-raisin
+
+# <h2> Q Bot :: [CarinPalazzolo](https://www.linkedin.com/in/cari-palazzolo/), [Paige Gorry](https://www.linkedin.com/in/paigeegorry/)[Kristin Hortsch](https://www.linkedin.com/in/kristinhortsch/) & [Aaron Dennis](https://www.linkedin.com/in/amdennis87/)
+
+Q bot is a Slack app for Alchemy Code Lab that adds student questions to Cloud Firestore collections for TA management. Using Slack API’s, React, Firebase/Firestore, and Cloud Functions, this app will help minimize the time it takes TA’s to diagnose student issues, allowing them to filter, sort and manage student questions per cohort.
+ - https://qbot.alchemycodelab.io/
+ - https://github.com/team-q/q-bot-sandbox
+ 
+ # <h2> Notes to Self :: [Kate Dameron](https://www.linkedin.com/in/kate-dameron/), [Carmen Perexchica](https://www.linkedin.com/in/carmenperezchica/), [Marcy Silverman](https://www.linkedin.com/in/marcy-silverman/) & [Lance Merrill](https://www.linkedin.com/in/lance-merrill/)
+  
+Nanny Now is an application that helps third-party child care providers compete in a digital world. Built with Express/Node/MongoDB on the back end and React/Redux on the front end, Nanny Now is an application that helps third-party child care providers compete in a digital world.
+  
+- https://notes-to-self.netlify.com/ 
+- https://github.com/note-to-self
