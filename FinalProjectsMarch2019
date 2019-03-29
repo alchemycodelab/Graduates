@@ -8,8 +8,8 @@ Our emphasis on process, regular testing and immersive lab sessions allow our gr
 
 # <h2> Below is an overview of the apps our grads are presenting, presenters, and their LinkedIn profiles.
   
-# <h2> PDX Pop Now :: [Michael Elliot](https://www.linkedin.com/in/designercode/), [Johnny Cruz](https://www.linkedin.com/in/karen-painter-pdx/) [Sophie Graham](https://www.linkedin.com/in/sophiergraham/) [Ivan Poblete](https://www.linkedin.com/in/ivan-poblete/) & [Tyler Corbett](https://www.linkedin.com/in/tyler-corbett/)
-Multnomah Legal Aid is a case management app designed for the local chapter of National Lawyers Guild, a non-profit that has provided pro-bono legal observing across the US since 1937. Using MongoDB with Mongoose, Express.js, React with Redux, and Node.js, this app will help the organization better import, organize, and manage data for the people they serve.
+# <h2> PDX Pop Now :: [Michael Elliot](https://www.linkedin.com/in/designercode/), [Johnny Cruz](https://www.linkedin.com/in/karen-painter-pdx/), [Sophie Graham](https://www.linkedin.com/in/sophiergraham/), [Ivan Poblete](https://www.linkedin.com/in/ivan-poblete/) & [Tyler Corbett](https://www.linkedin.com/in/tyler-corbett/)
+PDX Pop Now curates an artist directory for the non-profit PDX Pop Now! PPN is dedicated to stimulating and expanding participation in Portland music. They are committed to being accessible, current, and local. Using React with Redux, MongoDB with mongoose, Node.js, and Express, this app creates an avenue for the Portland community have more access to local artists and to create more opportunities for these musicians.
 - https://pdxpopnow.netlify.com/
 - https://github.com/team-raisin
 
