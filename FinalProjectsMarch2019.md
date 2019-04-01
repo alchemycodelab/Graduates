@@ -14,7 +14,7 @@ Note to Self is an app that seeks to aid users in their goal to rewire their inn
 - https://notes-to-self.netlify.com/ 
 - https://github.com/note-to-self
 
-# <h2> PDX Pop Now :: [Michael Elliot](https://www.linkedin.com/in/designercode/), [Johnny Cruz](https://www.linkedin.com/in/karen-painter-pdx/), [Sophie Graham](https://www.linkedin.com/in/sophiergraham/), [Ivan Poblete](https://www.linkedin.com/in/ivan-poblete/) & [Tyler Corbett](https://www.tylercorbett.me/)
+# <h2> PDX Pop Now :: [Michael Elliot](https://www.linkedin.com/in/themichaelelliott/), [Johnny Cruz](https://www.linkedin.com/in/designercode/), [Sophie Graham](https://www.linkedin.com/in/sophiergraham/), [Ivan Poblete](https://www.linkedin.com/in/ivan-poblete/) & [Tyler Corbett](https://www.tylercorbett.me/)
 PDX Pop Now curates an artist directory for the non-profit PDX Pop Now! PPN is dedicated to stimulating and expanding participation in Portland music. They are committed to being accessible, current, and local. Using React with Redux, MongoDB with mongoose, Node.js, and Express, this app creates an avenue for the Portland community have more access to local artists and to create more opportunities for these musicians.
 - https://pdxpopnow.netlify.com/
 - https://github.com/team-raisin
