@@ -1,0 +1,33 @@
+# Alchemy Code Lab FullStack App Descriptions & Graduate Profiles - June 2019
+
+Welcome to [Alchemy Code Lab](https://www.alchemycodelab.com)! 
+
+These students have just finished more than 800 hours of our professional software development training. They've learned how to harness the FullStack JavaScript capabilities using React and Redux on the Front End with ExpressJS and MongoDB on the Back End (plus a dose of Firebase for realtime communication).
+
+Our emphasis on process, regular testing and immersive lab sessions allow our grads to understand how their coding works and why it does what it does. As the only engineering education in town that serves Portland and Portland only, combined with in-person training by experienced senior software developers, our grads are real contributors. We stay on top of the most used technologies and aim for our grads to evolve Portland's economy and community through the companies they go to work for. [Here is an overview](https://docs.google.com/document/d/1RVKZ4wzOLJn5OeIE-94riRoJGLpwLRG1SuBdGY7sedg/edit?usp=sharing) of their syllabus through our Career Track training.  
+
+# <h2> Below is an overview of the apps presented and links to their deployed and github profiles. Links to the presenters LinkedIn profile or personal portfolio site is also included:
+
+# <h2> PushPin Learning Management System :: [Megan Marshall](https://www.linkedin.com/in/megan-alys-marshall/), [Jared Myherberg](https://www.linkedin.com/in/jaredmyhrberg/), [Anna Ridenour](https://www.linkedin.com/in/anna-ridenour/), [Colin Coutts](https://www.linkedin.com/in/colin-coutts/) & [Bonnie McNeil](https://www.linkedin.com/in/bonnie-mcneil/)
+  
+Push pin is a cloud base Learning Management System(LMS) designed for coding bootcamps. It offers an intuitive, easy to use UI for core LMS functionality like course authoring, assignment submission, grading, and other teacher and student tools. 
+- https://pushpin.netlify.com/ (Username: student@student.com / Password: password!23
+- https://github.com/push-pin
+
+# <h2> Unwasted :: [Phoebe LaBlonde](https://www.linkedin.com/in/phoebe-lablonde/), [Payton Lower](https://www.linkedin.com/in/paytonlower/), [Sean Nelson](https://www.linkedin.com/in/sean-nelson-0090a8110/), & [Leslie Shea](https://www.linkedin.com/in/leslieyshea/) & [Tyler Corbett](https://www.tylercorbett.me/)
+Unwasted is an app designed to prevent food waste. At it’s core, it functions as a platform to connect users with a surplus of food with those in need. It allows registered users to create posts, then other users to browse listings, contact users with products they are interested in, review the user they have made contact with, and consult other reviews in order to make sure they feel comfortable meeting the poster. We plan to continue developing this application after graduating from Alchemy and look forward to a real world launch in the next several months. Our hope is that we can provide a platform which allows altruism to flourish, and helps prevent unnecessary hunger.
+- https://reverent-bassi-f736d5.netlify.com
+- https://github.com/napple-github-io/unwasted-frontend
+- https://github.com/napple-github-io/unwasted-backend
+
+# <h2> Kids2 :: [Teonna Zaragoza](https://www.linkedin.com/in/teonnazaragoza/), [Dyanna Tolman](https://www.linkedin.com/in/dyanna-tolman/) & [Shaba Rahavi](https://www.linkedin.com/in/shaba-rahavi/)
+  
+Kids2 was built using MongoDB with Mongoose, Express.js, React with Redux,and Node.js. Kids2 provides a central location for community events around Portland geared towards youth and children. 
+- www.kidstoopdx.com 
+- https://github.com/team-herd
+
+# <h2> Q Bot :: [Cari Palazzolo](https://www.linkedin.com/in/cari-palazzolo/), [Paige Gorry](https://paigeegorry.netlify.com/), [Kristin Hortsch](https://www.linkedin.com/in/kristinhortsch/) & [Aaron Dennis](https://www.linkedin.com/in/amdennis87/)
+
+Q bot is a Slack app for Alchemy Code Lab that adds student questions to Cloud Firestore collections for TA management. Using Slack API’s, React, Firebase/Firestore, and Cloud Functions, this app will help minimize the time it takes TA’s to diagnose student issues, allowing them to filter, sort and manage student questions per cohort.
+ - https://qbot.alchemycodelab.io/
+ - https://github.com/team-q/q-bot-sandbox
