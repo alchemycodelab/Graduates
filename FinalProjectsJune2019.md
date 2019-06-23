@@ -27,7 +27,7 @@ We aim to make it an easy way for people to keep track of their job hunt and res
 - https://workur.netlify.com/
 - https://github.com/jobtographer
 
-# <h2> Mega Nap :: [Emily Baier](https://www.linkedin.com/in/emily-baier/), [Ben Parisot](https://www.linkedin.com/in/benparisot/), [Tommy Tran](https://www.linkedin.com/in/tranttommy/) & [Marty Martinez](https://www.linkedin.com/in/marty-martinez/)
+# <h2> Mega Nap :: [Emily Baier](https://www.linkedin.com/in/emily-baier/), [Chris Piccaro](https://www.linkedin.com/in/chris-piccaro/),[Ben Parisot](https://www.linkedin.com/in/benparisot/), [Tommy Tran](https://www.linkedin.com/in/tranttommy/) & [Marty Martinez](https://www.linkedin.com/in/marty-martinez/)
 
 Mega Nap is an app that makes APIs. It empowers front-end developers to focus on developing the front-end.
  - https://github.com/grandpapi
