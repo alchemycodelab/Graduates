@@ -14,20 +14,26 @@ Push pin is a cloud base Learning Management System(LMS) designed for coding boo
 - https://pushpin.netlify.com/ (Username: student@student.com / Password: password!23
 - https://github.com/push-pin
 
-# <h2> Unwasted :: [Phoebe LaBlonde](https://www.linkedin.com/in/phoebe-lablonde/), [Payton Lower](https://www.linkedin.com/in/paytonlower/), [Sean Nelson](https://www.linkedin.com/in/sean-nelson-0090a8110/), & [Leslie Shea](https://www.linkedin.com/in/leslieyshea/)
+# <h2> Unwasted :: [Susan Puckett](https://www.linkedin.com/in/susanpuckett/), [Alex Ramirez de Cruz](https://alexramirezdecruz.com), [Leigh-Ann Crivella](https://www.linkedin.com/in/lacrivella/), & [Carlos Us Santiago](https://www.linkedin.com/in/carlosuss/)
 Unwasted is an app designed to prevent food waste. At it’s core, it functions as a platform to connect users with a surplus of food with those in need. It allows registered users to create posts, then other users to browse listings, contact users with products they are interested in, review the user they have made contact with, and consult other reviews in order to make sure they feel comfortable meeting the poster. We plan to continue developing this application after graduating from Alchemy and look forward to a real world launch in the next several months. Our hope is that we can provide a platform which allows altruism to flourish, and helps prevent unnecessary hunger.
 - https://reverent-bassi-f736d5.netlify.com
 - https://github.com/napple-github-io/unwasted-frontend
 - https://github.com/napple-github-io/unwasted-backend
 
-# <h2> Workür :: [Laura Badgley](https://www.linkedin.com/in/laura-badgley/), [Cheri Portman](https://www.linkedin.com/in/cheriportman/), [Parker Helland](https://www.linkedin.com/in/parker-christian-helland/), [Olli Nieminen](https://www.linkedin.com/in/nieminenolli/) & [Cosmo Lightfoot]
+# <h2> Workür :: [Danny Hogan](https://www.linkedin.com/in/danny-hogan/), [Noah Ingram Puckett](https://www.linkedin.com/in/noahingrampuckett/) & [Dirt Deodara](https://www.linkedin.com/in/dirtdeodara/)
   
 Workür allows users to track their job search progress and history. As a user finds a job posting online, they are able to upload information regarding that post, as well as their resume and cover letter (if they apply or intend to). They can update their progress from interested in the job, phone interview, in person interview, and job offered. They can also add notes to keep track of whatever information they would like.
 We aim to make it an easy way for people to keep track of their job hunt and resumes/cover letters regarding the jobs they are applying to.
 - https://workur.netlify.com/
 - https://github.com/jobtographer
 
-# <h2> Mega Nap :: [Emily Baier](https://www.linkedin.com/in/emily-baier/), [Chris Piccaro](https://www.linkedin.com/in/chris-piccaro/),[Ben Parisot](https://www.linkedin.com/in/benparisot/), [Tommy Tran](https://www.linkedin.com/in/tranttommy/) & [Marty Martinez](https://www.linkedin.com/in/marty-martinez/)
+# <h2> Mega Nap :: [Pavel Kudlanov](https://www.linkedin.com/in/pavelkudlanov/), [Jonathan Forney](https://www.linkedin.com/in/jon-forney/) & [Vasily Markov](https://www.linkedin.com/in/vasily-markov/)
+
+Mega Nap is an app that makes APIs. It empowers front-end developers to focus on developing the front-end.
+ - https://github.com/grandpapi
+ - https://www.meganap.com/
+
+# <h2> Mega Nap :: [Zach Butler](https://www.linkedin.com/in/zach-ryan-butler/), [Lili Boxer](www.liliboxer.com),[Eli Nicholson](https://www.linkedin.com/in/eli-nicholson/) & [Erin Gurley](https://www.linkedin.com/in/erin-gurley/)
 
 Mega Nap is an app that makes APIs. It empowers front-end developers to focus on developing the front-end.
  - https://github.com/grandpapi
