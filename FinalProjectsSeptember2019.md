@@ -14,7 +14,7 @@ Push pin is a cloud base Learning Management System(LMS) designed for coding boo
 - https://pushpin.netlify.com/ (Username: student@student.com / Password: password!23
 - https://github.com/push-pin
 
-# <h2> Unwasted :: [Susan Puckett](https://www.linkedin.com/in/susanpuckett/), [Alex Ramirez de Cruz](https://alexramirezdecruz.com), [Leigh-Ann Crivella](https://www.linkedin.com/in/lacrivella/), & [Carlos Us Santiago](https://www.linkedin.com/in/carlosuss/)
+# <h2> NEWZIE :: [Susan Puckett](https://www.linkedin.com/in/susanpuckett/), [Alex Ramirez de Cruz](https://alexramirezdecruz.com), [Leigh-Ann Crivella](https://www.linkedin.com/in/lacrivella/), & [Carlos Us Santiago](https://www.linkedin.com/in/carlosuss/)
 Unwasted is an app designed to prevent food waste. At it’s core, it functions as a platform to connect users with a surplus of food with those in need. It allows registered users to create posts, then other users to browse listings, contact users with products they are interested in, review the user they have made contact with, and consult other reviews in order to make sure they feel comfortable meeting the poster. We plan to continue developing this application after graduating from Alchemy and look forward to a real world launch in the next several months. Our hope is that we can provide a platform which allows altruism to flourish, and helps prevent unnecessary hunger.
 - https://newzie.netlify.com/
 - https://github.com/The-Newsies
