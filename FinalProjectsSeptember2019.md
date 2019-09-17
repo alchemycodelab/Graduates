@@ -6,7 +6,7 @@ These students have just finished more than 800 hours of our professional softwa
 
 Our emphasis on process, regular testing and immersive lab sessions allow our grads to understand how their coding works and why it does what it does. As the only engineering education in town that serves Portland and Portland only, combined with in-person training by experienced senior software developers, our grads are real contributors. We stay on top of the most used technologies and aim for our grads to evolve Portland's economy and community through the companies they go to work for. [Here is an overview](https://docs.google.com/document/d/1RVKZ4wzOLJn5OeIE-94riRoJGLpwLRG1SuBdGY7sedg/edit?usp=sharing) of their syllabus through our Career Track training.  
 
-# <h2> Below is an overview of the apps presented and links to their deployed and github profiles. Links to the presenters LinkedIn profile or personal portfolio site is also included:
+# <h2> Below is an overview of the apps presented and links to their deployed and github profiles. Links to the presenters' LinkedIn profile or personal portfolio site is also included:
 
 # <h2> PushPin Learning Management System :: [Jack McConnell](https://www.linkedin.com/in/mcconnelljack/), [Danny Suarez](https://www.linkedin.com/in/danny-suarez/), [Wes Griffin](https://www.linkedin.com/in/wes-griffin-319b7a184/) & [Emily Ford](https://www.linkedin.com/in/mle4d/)
   
