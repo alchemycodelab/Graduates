@@ -30,7 +30,7 @@ We aim to make it an easy way for people to keep track of their job hunt and res
 
 Mega Nap is an app that makes APIs. It empowers front-end developers to focus on developing the front-end.
  - https://github.com/grandpapi
- - https://www.meganap.com/
+ - https://serene-williams-6f2fcb.netlify.com/
 
 # <h2> EEZ-MEET :: [Zach Butler](https://www.linkedin.com/in/zach-ryan-butler/), [Lili Boxer](www.liliboxer.com),[Eli Nicholson](https://www.linkedin.com/in/eli-nicholson/) & [Erin Gurley](https://www.linkedin.com/in/erin-gurley/)
 
