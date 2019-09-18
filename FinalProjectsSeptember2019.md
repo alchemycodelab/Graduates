@@ -32,9 +32,9 @@ Mega Nap is an app that makes APIs. It empowers front-end developers to focus on
  - https://github.com/grandpapi
  - https://www.meganap.com/
 
-# <h2> Mega Nap :: [Zach Butler](https://www.linkedin.com/in/zach-ryan-butler/), [Lili Boxer](www.liliboxer.com),[Eli Nicholson](https://www.linkedin.com/in/eli-nicholson/) & [Erin Gurley](https://www.linkedin.com/in/erin-gurley/)
+# <h2> EEZ-MEET :: [Zach Butler](https://www.linkedin.com/in/zach-ryan-butler/), [Lili Boxer](www.liliboxer.com),[Eli Nicholson](https://www.linkedin.com/in/eli-nicholson/) & [Erin Gurley](https://www.linkedin.com/in/erin-gurley/)
 
 Mega Nap is an app that makes APIs. It empowers front-end developers to focus on developing the front-end.
- - https://github.com/grandpapi
- - https://www.meganap.com/
+ - https://github.com/eez-meet-me/
+ - http://pindrop.netlify.com/
 
