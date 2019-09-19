@@ -14,13 +14,13 @@ Push pin is a cloud base Learning Management System(LMS) designed for coding boo
 - https://pushpin.netlify.com/ (Username: student@student.com / Password: password!23
 - https://github.com/push-pin
 
-# <h2> Mega Nap :: [Pavel Kudlanov](https://www.linkedin.com/in/pavelkudlanov/), [Jonathan Forney](https://www.linkedin.com/in/jon-forney/) & [Vasily Markov](https://www.linkedin.com/in/vasily-markov/)
+# <h2> ARTAROUND :: [Pavel Kudlanov](https://www.linkedin.com/in/pavelkudlanov/), [Jonathan Forney](https://www.linkedin.com/in/jon-forney/) & [Vasily Markov](https://www.linkedin.com/in/vasily-markov/)
 
-Mega Nap is an app that makes APIs. It empowers front-end developers to focus on developing the front-end.
- - https://github.com/grandpapi
+ArtAround is a social media platform for artists and galleries, helping both to connect with each other.  Our app helps break down traditional barriers artists face while making it easier for new galleries to discover new artistic talent.
  - https://serene-williams-6f2fcb.netlify.com/
+ - https://github.com/ArtAround2-secrets-of-the-ooze
 
-# <h2> GYST :: [Danny Hogan](https://www.linkedin.com/in/danny-hogan/), [Lili Boxer](www.liliboxer.com),[Noah Ingram Puckett](https://www.linkedin.com/in/noahingrampuckett/) & [Dirt Deodara](https://www.linkedin.com/in/dirtdeodara/)
+# <h2> GYST :: [Danny Hogan](https://www.linkedin.com/in/danny-hogan/), [Lili Boxer](www.liliboxer.com), [Noah Ingram Puckett](https://www.linkedin.com/in/noahingrampuckett/) & [Dirt Deodara](https://www.linkedin.com/in/dirtdeodara/)
   
 Fullstack habit tracking app that allows users to create, update, and delete habits, set time-sensitive goals for each habit, track progress over time, and add comments every time they make progress. Created using MongoDB, Express, React & Redux, and Node, designed for mobile devices.
 - https://github.com/DNDL
