@@ -14,26 +14,25 @@ Push pin is a cloud base Learning Management System(LMS) designed for coding boo
 - https://pushpin.netlify.com/ (Username: student@student.com / Password: password!23
 - https://github.com/push-pin
 
-# <h2> NEWZIE :: [Susan Puckett](https://www.linkedin.com/in/susanpuckett/), [Alex Ramirez de Cruz](https://alexramirezdecruz.com), [Leigh-Ann Crivella](https://www.linkedin.com/in/lacrivella/), & [Carlos Us Santiago](https://www.carlitosus.com/)
-Unwasted is an app designed to prevent food waste. At it’s core, it functions as a platform to connect users with a surplus of food with those in need. It allows registered users to create posts, then other users to browse listings, contact users with products they are interested in, review the user they have made contact with, and consult other reviews in order to make sure they feel comfortable meeting the poster. We plan to continue developing this application after graduating from Alchemy and look forward to a real world launch in the next several months. Our hope is that we can provide a platform which allows altruism to flourish, and helps prevent unnecessary hunger.
-- https://newzie.netlify.com/
-- https://github.com/The-Newsies
-
-# <h2> GYST :: [Danny Hogan](https://www.linkedin.com/in/danny-hogan/), [Noah Ingram Puckett](https://www.linkedin.com/in/noahingrampuckett/) & [Dirt Deodara](https://www.linkedin.com/in/dirtdeodara/)
-  
-Fullstack habit tracking app that allows users to create, update, and delete habits, set time-sensitive goals for each habit, track progress over time, and add comments every time they make progress. Created using MongoDB, Express, React & Redux, and Node, designed for mobile devices.
-- https://github.com/DNDL
-- www.gyst.dev
-
 # <h2> Mega Nap :: [Pavel Kudlanov](https://www.linkedin.com/in/pavelkudlanov/), [Jonathan Forney](https://www.linkedin.com/in/jon-forney/) & [Vasily Markov](https://www.linkedin.com/in/vasily-markov/)
 
 Mega Nap is an app that makes APIs. It empowers front-end developers to focus on developing the front-end.
  - https://github.com/grandpapi
  - https://serene-williams-6f2fcb.netlify.com/
 
-# <h2> EEZ-MEET :: [Zach Butler](https://www.linkedin.com/in/zach-ryan-butler/), [Lili Boxer](www.liliboxer.com),[Eli Nicholson](https://www.linkedin.com/in/eli-nicholson/) & [Erin Gurley](https://www.linkedin.com/in/erin-gurley/)
+# <h2> GYST :: [Danny Hogan](https://www.linkedin.com/in/danny-hogan/), [Lili Boxer](www.liliboxer.com),[Noah Ingram Puckett](https://www.linkedin.com/in/noahingrampuckett/) & [Dirt Deodara](https://www.linkedin.com/in/dirtdeodara/)
+  
+Fullstack habit tracking app that allows users to create, update, and delete habits, set time-sensitive goals for each habit, track progress over time, and add comments every time they make progress. Created using MongoDB, Express, React & Redux, and Node, designed for mobile devices.
+- https://github.com/DNDL
+- https://www.gyst.dev
+
+# <h2> EEZ-MEET :: [Zach Butler](https://www.linkedin.com/in/zach-ryan-butler/), [Eli Nicholson](https://www.linkedin.com/in/eli-nicholson/) & [Erin Gurley](https://www.linkedin.com/in/erin-gurley/)
 
 Mega Nap is an app that makes APIs. It empowers front-end developers to focus on developing the front-end.
  - https://github.com/eez-meet-me/
  - http://pindrop.netlify.com/
 
+# <h2> NEWZIE :: [Susan Puckett](https://www.linkedin.com/in/susanpuckett/), [Alex Ramirez de Cruz](https://alexramirezdecruz.com), [Leigh-Ann Crivella](https://www.linkedin.com/in/lacrivella/), & [Carlos Us Santiago](https://www.carlitosus.com/)
+Unwasted is an app designed to prevent food waste. At it’s core, it functions as a platform to connect users with a surplus of food with those in need. It allows registered users to create posts, then other users to browse listings, contact users with products they are interested in, review the user they have made contact with, and consult other reviews in order to make sure they feel comfortable meeting the poster. We plan to continue developing this application after graduating from Alchemy and look forward to a real world launch in the next several months. Our hope is that we can provide a platform which allows altruism to flourish, and helps prevent unnecessary hunger.
+- https://newzie.netlify.com/
+- https://github.com/The-Newsies
