@@ -19,12 +19,11 @@ Unwasted is an app designed to prevent food waste. At it’s core, it functions 
 - https://newzie.netlify.com/
 - https://github.com/The-Newsies
 
-# <h2> Workür :: [Danny Hogan](https://www.linkedin.com/in/danny-hogan/), [Noah Ingram Puckett](https://www.linkedin.com/in/noahingrampuckett/) & [Dirt Deodara](https://www.linkedin.com/in/dirtdeodara/)
+# <h2> GYST :: [Danny Hogan](https://www.linkedin.com/in/danny-hogan/), [Noah Ingram Puckett](https://www.linkedin.com/in/noahingrampuckett/) & [Dirt Deodara](https://www.linkedin.com/in/dirtdeodara/)
   
-Workür allows users to track their job search progress and history. As a user finds a job posting online, they are able to upload information regarding that post, as well as their resume and cover letter (if they apply or intend to). They can update their progress from interested in the job, phone interview, in person interview, and job offered. They can also add notes to keep track of whatever information they would like.
-We aim to make it an easy way for people to keep track of their job hunt and resumes/cover letters regarding the jobs they are applying to.
-- https://workur.netlify.com/
-- https://github.com/jobtographer
+Fullstack habit tracking app that allows users to create, update, and delete habits, set time-sensitive goals for each habit, track progress over time, and add comments every time they make progress. Created using MongoDB, Express, React & Redux, and Node, designed for mobile devices.
+- https://github.com/DNDL
+- www.gyst.dev
 
 # <h2> Mega Nap :: [Pavel Kudlanov](https://www.linkedin.com/in/pavelkudlanov/), [Jonathan Forney](https://www.linkedin.com/in/jon-forney/) & [Vasily Markov](https://www.linkedin.com/in/vasily-markov/)
 
