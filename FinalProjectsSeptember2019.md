@@ -8,11 +8,11 @@ Our emphasis on process, regular testing and immersive lab sessions allow our gr
 
 # <h2> Below is an overview of the apps presented and links to their deployed and github profiles. Links to the presenters' LinkedIn profile or personal portfolio site is also included:
 
-# <h2> PushPin Learning Management System :: [Jack McConnell](https://www.linkedin.com/in/mcconnelljack/), [Danny Suarez](https://www.linkedin.com/in/danny-suarez/), [Wes Griffin](https://www.linkedin.com/in/wes-griffin-319b7a184/) & [Emily Ford](https://www.linkedin.com/in/mle4d/)
+# <h2> HAPPY TREES :: [Jack McConnell](https://www.linkedin.com/in/mcconnelljack/), [Danny Suarez](https://www.linkedin.com/in/danny-suarez/), [Wes Griffin](https://www.linkedin.com/in/wes-griffin-319b7a184/) & [Emily Ford](https://www.linkedin.com/in/mle4d/)
   
-Push pin is a cloud base Learning Management System(LMS) designed for coding bootcamps. It offers an intuitive, easy to use UI for core LMS functionality like course authoring, assignment submission, grading, and other teacher and student tools. 
-- https://pushpin.netlify.com/ (Username: student@student.com / Password: password!23
-- https://github.com/push-pin
+Happy Trees is a guess a sketch style game. One player is given a word to draw while the other player attempts to guess what is being drawn. The guessing player can see a real-time image of the drawing and how long the word is. Gain points for having your drawing guessed and for guessing a drawing with minimal attempts. Be careful to watch how much time is left! 
+- https://happy-trees.netlify.com/
+- https://github.com/happy-trees
 
 # <h2> ARTAROUND :: [Pavel Kudlanov](https://www.linkedin.com/in/pavelkudlanov/), [Jonathan Forney](https://www.linkedin.com/in/jon-forney/) & [Vasily Markov](https://www.linkedin.com/in/vasily-markov/)
 
@@ -26,9 +26,11 @@ Fullstack habit tracking app that allows users to create, update, and delete hab
 - https://github.com/DNDL
 - https://www.gyst.dev
 
-# <h2> EEZ-MEET :: [Zach Butler](https://www.linkedin.com/in/zach-ryan-butler/), [Eli Nicholson](https://www.linkedin.com/in/eli-nicholson/) & [Erin Gurley](https://www.linkedin.com/in/erin-gurley/)
+# <h2> PINDROP :: [Zach Butler](https://www.linkedin.com/in/zach-ryan-butler/), [Eli Nicholson](https://www.linkedin.com/in/eli-nicholson/) & [Erin Gurley](https://www.linkedin.com/in/erin-gurley/)
 
-Mega Nap is an app that makes APIs. It empowers front-end developers to focus on developing the front-end.
+Sick of having to text all your friends to see who’s available for a cup of tea? A concert? A work session?
+
+Look no further. Pindrop makes it easy to let your friends know who, when, where, and what time. It’s a social app that can cure the back and forth of details, share the address of where you’ll be, and make plans with your friends a walk in the park. Sign up, follow your friends, post a pin, or just take a look and choose what activity/what friend you want to plan your day around. Spin this instant meetup option into your calendar and see how easy it can be to hang with the people you care about.
  - https://github.com/eez-meet-me/
  - http://pindrop.netlify.com/
 
