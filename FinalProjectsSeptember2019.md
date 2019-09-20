@@ -35,7 +35,7 @@ Look no further. Pindrop makes it easy to let your friends know who, when, where
  - http://pindrop.netlify.com/
 
 # <h2> NEWZIE :: [Susan Puckett](https://www.linkedin.com/in/susanpuckett/), [Alex Ramirez de Cruz](https://alexramirezdecruz.com), [Leigh-Ann Crivella](https://www.linkedin.com/in/lacrivella/), & [Carlos Us Santiago](https://www.carlitosus.com/)
-Unwasted is an app designed to prevent food waste. At it’s core, it functions as a platform to connect users with a surplus of food with those in need. It allows registered users to create posts, then other users to browse listings, contact users with products they are interested in, review the user they have made contact with, and consult other reviews in order to make sure they feel comfortable meeting the poster. We plan to continue developing this application after graduating from Alchemy and look forward to a real world launch in the next several months. Our hope is that we can provide a platform which allows altruism to flourish, and helps prevent unnecessary hunger.
+Newzie is an app that allows you the freedom to consume and organize the news how YOU want. You can view trending news stories, filter by category, and search by key words. You have the ability to cultivate and create your own collections of news stories that you may save to revisit later. We aim to take the stress out of staying informed.
 - https://newzie.netlify.com/
 - https://github.com/The-Newsies
 
