@@ -38,3 +38,4 @@ Look no further. Pindrop makes it easy to let your friends know who, when, where
 Unwasted is an app designed to prevent food waste. At it’s core, it functions as a platform to connect users with a surplus of food with those in need. It allows registered users to create posts, then other users to browse listings, contact users with products they are interested in, review the user they have made contact with, and consult other reviews in order to make sure they feel comfortable meeting the poster. We plan to continue developing this application after graduating from Alchemy and look forward to a real world launch in the next several months. Our hope is that we can provide a platform which allows altruism to flourish, and helps prevent unnecessary hunger.
 - https://newzie.netlify.com/
 - https://github.com/The-Newsies
+
