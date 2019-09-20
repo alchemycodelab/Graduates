@@ -39,3 +39,4 @@ Unwasted is an app designed to prevent food waste. At it’s core, it functions 
 - https://newzie.netlify.com/
 - https://github.com/The-Newsies
 
+If you have questions about the program or want to talk about hiring one of our grads, please connect with Shannon Rasimas at shannon@alchemycodelab.com! 
