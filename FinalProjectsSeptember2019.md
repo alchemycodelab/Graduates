@@ -20,7 +20,7 @@ ArtAround is a social media platform for artists and galleries, helping both to 
  - https://serene-williams-6f2fcb.netlify.com/
  - https://github.com/ArtAround2-secrets-of-the-ooze
 
-# <h2> GYST :: [Danny Hogan](https://www.linkedin.com/in/danny-hogan/), [Lili Boxer](www.liliboxer.com), [Noah Ingram Puckett](https://www.linkedin.com/in/noahingrampuckett/) & [Dirt Deodara](https://www.linkedin.com/in/dirtdeodara/)
+# <h2> GYST :: [Danny Hogan](https://www.linkedin.com/in/danny-hogan/), [Lili Boxer](https://www.liliboxer.com/), [Noah Ingram Puckett](https://www.linkedin.com/in/noahingrampuckett/) & [Dirt Deodara](https://www.linkedin.com/in/dirtdeodara/)
   
 Fullstack habit tracking app that allows users to create, update, and delete habits, set time-sensitive goals for each habit, track progress over time, and add comments every time they make progress. Created using MongoDB, Express, React & Redux, and Node, designed for mobile devices.
 - https://github.com/DNDL
