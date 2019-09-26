@@ -8,17 +8,16 @@ Our emphasis on process, regular testing and immersive lab sessions allow our gr
 
 # <h2> Below is an overview of the apps presented and links to their deployed and github profiles. Links to the presenters' LinkedIn profile or personal portfolio site is also included:
 
+# <h2> NEWZIE :: [Susan Puckett](https://www.linkedin.com/in/susanpuckett/), [Alex Ramirez de Cruz](https://alexramirezdecruz.com), [Leigh-Ann Crivella](https://www.linkedin.com/in/lacrivella/), & [Carlos Us Santiago](https://www.carlitosus.com/)
+Newzie is an app that allows you the freedom to consume and organize the news how YOU want. You can view trending news stories, filter by category, and search by key words. You have the ability to cultivate and create your own collections of news stories that you may save to revisit later. We aim to take the stress out of staying informed.
+- https://newzie.netlify.com/
+- https://github.com/The-Newsies
+
 # <h2> HAPPY TREES :: [Jack McConnell](https://www.linkedin.com/in/mcconnelljack/), [Danny Suarez](https://www.linkedin.com/in/danny-suarez/), [Wes Griffin](https://www.linkedin.com/in/wes-griffin-319b7a184/) & [Emily Ford](https://www.linkedin.com/in/mle4d/)
   
 Happy Trees is a guess a sketch style game. One player is given a word to draw while the other player attempts to guess what is being drawn. The guessing player can see a real-time image of the drawing and how long the word is. Gain points for having your drawing guessed and for guessing a drawing with minimal attempts. Be careful to watch how much time is left! 
 - https://happy-trees.netlify.com/
 - https://github.com/happy-trees
-
-# <h2> ARTAROUND :: [Pavel Kudlanov](https://www.linkedin.com/in/pavelkudlanov/), [Jonathan Forney](https://www.linkedin.com/in/jon-forney/) & [Vasily Markov](https://www.linkedin.com/in/vasily-markov/)
-
-ArtAround is a social media platform for artists and galleries, helping both to connect with each other.  Our app helps break down traditional barriers artists face while making it easier for new galleries to discover new artistic talent.
- - https://serene-williams-6f2fcb.netlify.com/
- - https://github.com/ArtAround2-secrets-of-the-ooze
 
 # <h2> GYST :: [Danny Hogan](https://www.linkedin.com/in/danny-hogan/), [Lili Boxer](https://www.liliboxer.com/), [Noah Ingram Puckett](https://www.linkedin.com/in/noahingrampuckett/) & [Dirt Deodara](https://www.linkedin.com/in/dirtdeodara/)
   
@@ -33,10 +32,11 @@ Sick of having to text all your friends to see who’s available for a cup of te
 Look no further. Pindrop makes it easy to let your friends know who, when, where, and what time. It’s a social app that can cure the back and forth of details, share the address of where you’ll be, and make plans with your friends a walk in the park. Sign up, follow your friends, post a pin, or just take a look and choose what activity/what friend you want to plan your day around. Spin this instant meetup option into your calendar and see how easy it can be to hang with the people you care about.
  - https://github.com/eez-meet-me/
  - http://pindrop.netlify.com/
+ 
+ # <h2> ARTAROUND :: [Pavel Kudlanov](https://www.linkedin.com/in/pavelkudlanov/), [Jonathan Forney](https://www.linkedin.com/in/jon-forney/) & [Vasily Markov](https://www.linkedin.com/in/vasily-markov/)
 
-# <h2> NEWZIE :: [Susan Puckett](https://www.linkedin.com/in/susanpuckett/), [Alex Ramirez de Cruz](https://alexramirezdecruz.com), [Leigh-Ann Crivella](https://www.linkedin.com/in/lacrivella/), & [Carlos Us Santiago](https://www.carlitosus.com/)
-Newzie is an app that allows you the freedom to consume and organize the news how YOU want. You can view trending news stories, filter by category, and search by key words. You have the ability to cultivate and create your own collections of news stories that you may save to revisit later. We aim to take the stress out of staying informed.
-- https://newzie.netlify.com/
-- https://github.com/The-Newsies
+ArtAround is a social media platform for artists and galleries, helping both to connect with each other.  Our app helps break down traditional barriers artists face while making it easier for new galleries to discover new artistic talent.
+ - https://serene-williams-6f2fcb.netlify.com/
+ - https://github.com/ArtAround2-secrets-of-the-ooze
 
 If you have questions about the program or want to talk about hiring one of our grads, please connect with Shannon Rasimas at shannon@alchemycodelab.com! 
