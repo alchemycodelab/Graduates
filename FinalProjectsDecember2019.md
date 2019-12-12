@@ -19,13 +19,13 @@ Happy Trees is a guess a sketch style game. One player is given a word to draw w
 - https://github.com/mindDrift 
 - https://github.com/mindDrift
 
-# <h2> GYST :: [Danny Hogan](https://www.linkedin.com/in/danny-hogan/), [Lili Boxer](https://www.liliboxer.com/), [Noah Ingram Puckett](https://www.linkedin.com/in/noahingrampuckett/) & [Dirt Deodara](https://www.linkedin.com/in/dirtdeodara/)
+# <h2> GYST :: [Angela Vawser](http://hello-jelly.com/), [Luke Donahue](https://www.linkedin.com/in/lukedonahue/), [Allison Busse](http://www.allisonbusse.com) & [John Nelson](https://www.linkedin.com/in/johnnelson4850/)
   
 Fullstack habit tracking app that allows users to create, update, and delete habits, set time-sensitive goals for each habit, track progress over time, and add comments every time they make progress. Created using MongoDB, Express, React & Redux, and Node, designed for mobile devices.
 - https://github.com/DNDL
 - https://www.gyst.dev
 
-# <h2> PINDROP :: [Zach Butler](https://www.linkedin.com/in/zach-ryan-butler/), [Eli Nicholson](https://www.linkedin.com/in/eli-nicholson/) & [Erin Gurley](https://www.linkedin.com/in/erin-gurley/)
+# <h2> PINDROP :: [Donna Lambert](https://www.linkedin.com/in/dlambertpdx/), [Ollie Comet](https://github.com/olliecomet), [Antonella Gutierrez](https://www.antonella-gutierrez.com/) & [Alex Spencer](www.alexjonspencer.com) 
 
 Sick of having to text all your friends to see who’s available for a cup of tea? A concert? A work session?
 
@@ -33,7 +33,7 @@ Look no further. Pindrop makes it easy to let your friends know who, when, where
  - https://github.com/eez-meet-me/
  - http://pindrop.netlify.com/
  
- # <h2> ARTAROUND :: [Pavel Kudlanov](https://www.linkedin.com/in/pavelkudlanov/), [Jonathan Forney](https://www.linkedin.com/in/jon-forney/) & [Vasily Markov](https://www.linkedin.com/in/vasily-markov/)
+ # <h2> ARTAROUND :: [Joe Klause](https://www.linkedin.com/in/joe-klause/), [Evan Andrewson](https://www.linkedin.com/in/evan-andrewson/), [Pat Haynes](https://www.linkedin.com/in/pat-haynes/) & [Phil Fitch](https://www.linkedin.com/in/philfitch/)
 
 ArtAround is a social media platform for artists and galleries, helping both to connect with each other.  Our app helps break down traditional barriers artists face while making it easier for new galleries to discover new artistic talent.
  - https://serene-williams-6f2fcb.netlify.com/
