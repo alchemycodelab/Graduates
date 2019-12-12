@@ -8,7 +8,7 @@ Our emphasis on process, regular testing and immersive lab sessions allow our gr
 
 # <h2> Below is an overview of the apps presented and links to their deployed and github profiles. Links to the presenters' LinkedIn profile or personal portfolio site is also included:
 
-# <h2> NEWZIE :: [Sam Jespersen](https://www.linkedin.com/in/sam-mclain-jespersen/), [Jose Ojeda](https://www.linkedin.com/in/jose-a-ojeda/), [Kamran Ali](https://www.linkedin.com/in/kamran-g-ali/), & [Dylan Cordivae](https://www.linkedin.com/in/dylancorvidae/)
+# <h2> NEWZIE :: [Sam Jespersen](https://www.linkedin.com/in/sam-mclain-jespersen/), [Jose Ojeda](https://www.linkedin.com/in/jose-a-ojeda/), [Kamran Ali](https://www.linkedin.com/in/kamran-g-ali/) & [Dylan Cordivae](https://www.linkedin.com/in/dylancorvidae/)
 Newzie is an app that allows you the freedom to consume and organize the news how YOU want. You can view trending news stories, filter by category, and search by key words. You have the ability to cultivate and create your own collections of news stories that you may save to revisit later. We aim to take the stress out of staying informed.
 - https://newzie.netlify.com/
 - https://github.com/The-Newsies
