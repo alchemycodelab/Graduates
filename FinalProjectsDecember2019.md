@@ -16,7 +16,7 @@ Newzie is an app that allows you the freedom to consume and organize the news ho
 # <h2> mindDrift :: [Abbey Masters](https://www.linkedin.com/in/abbeymasters/), [Maeve Griffin](https://www.linkedin.com/in/maeve-anne-griffin/) & [Dave Trost](https://www.linkedin.com/in/dave-trost/)
   
 Happy Trees is a guess a sketch style game. One player is given a word to draw while the other player attempts to guess what is being drawn. The guessing player can see a real-time image of the drawing and how long the word is. Gain points for having your drawing guessed and for guessing a drawing with minimal attempts. Be careful to watch how much time is left! 
-- https://github.com/mindDrift 
+- http://mind-drift.netlify.com/ 
 - https://github.com/mindDrift
 
 # <h2> GYST :: [Angela Vawser](http://hello-jelly.com/), [Luke Donahue](https://www.linkedin.com/in/lukedonahue/), [Allison Busse](http://www.allisonbusse.com) & [John Nelson](https://www.linkedin.com/in/johnnelson4850/)
