@@ -31,7 +31,7 @@ Narrative is a full-stack application designed to help storytellers, story write
  - https://team-narrative.netlify.com/
  - https://github.com/team-narrative/narrative-fe/tree/master
 
-# <h2> GOOD MANNERS :: [Angela Vawser](http://hello-jelly.com/), [Luke Donahue](https://www.linkedin.com/in/lukedonahue/), [Allison Busse](http://www.allisonbusse.com) & [John Nelson](https://www.linkedin.com/in/johnnelson4850/)
+# <h2> goodmanors :: [Angela Vawser](http://hello-jelly.com/), [Luke Donahue](https://www.linkedin.com/in/lukedonahue/), [Allison Busse](http://www.allisonbusse.com) & [John Nelson](https://www.linkedin.com/in/johnnelson4850/)
   
 Keep all of the relevant info about your home in one place with Good Manors. This app offers users the opportunity to create one or more digital homes. Each home has individual cards to store your content and drawers to keep those cards organized.
 - https://good-manors.netlify.com/
