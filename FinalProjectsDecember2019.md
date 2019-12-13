@@ -25,7 +25,7 @@ Crypto Trades was conceived as a way to practice trading in crypto currencies, u
  - https://sleepy-brahmagupta-07740c.netlify.com
  - https://github.com/Crypto-Punks
 
-# <h2> NARRATIVE :: [Donna Lambert](https://www.linkedin.com/in/dlambertpdx/), [Ollie Comet](https://github.com/olliecomet), [Antonella Gutierrez](https://www.antonella-gutierrez.com/) & [Alex Spencer](www.alexjonspencer.com) 
+# <h2> NARRATIVE :: [Donna Lambert](https://www.linkedin.com/in/dlambertpdx/), [Ollie Comet](https://github.com/olliecomet), [Antonella Gutierrez](https://www.antonella-gutierrez.com/) & [Alex Spencer](https://www.alexjonspencer.com) 
 
 Narrative is a full-stack application designed to help storytellers, story writers, screenwriters, novelists, and others keep track of their ideas! Whether you’re building new stories, developing characters, chapters, worlds, or locations, Narrative is a safe place to store your ideas and organize your thoughts.
  - https://team-narrative.netlify.com/
