@@ -8,35 +8,33 @@ Our emphasis on process, regular testing and immersive lab sessions allow our gr
 
 # <h2> Below is an overview of the apps presented and links to their deployed and github profiles. Links to the presenters' LinkedIn profile or personal portfolio site is also included:
 
-# <h2> BASIC ASS MAZE GAME :: [Sam Jespersen](https://www.linkedin.com/in/sam-mclain-jespersen/), [Jose Ojeda](https://www.linkedin.com/in/jose-a-ojeda/), [Kamran Ali](https://www.linkedin.com/in/kamran-g-ali/) & [Dylan Cordivae](https://www.linkedin.com/in/dylancorvidae/)
-Multiplayer game using socket.io, node.js, react.js that lets friends challenge each other to see who can solve a randomly generated maze first.
-- https://maze-race.herokuapp.com/
-- https://github.com/Team-Amazing-Race
-
 # <h2> mindDrift :: [Abbey Masters](https://www.linkedin.com/in/abbeymasters/), [Maeve Griffin](https://www.linkedin.com/in/maeve-anne-griffin/) & [Dave Trost](https://www.linkedin.com/in/dave-trost/)
   
 You are a stressed parent, student or professional that needs an app to help you take a breath and practice being still. Many meditation apps have tons of features that are overwhelming and actually increase stress. mindDrift is simple and encouraging. Breathe, you’ve got this.
 - http://mind-drift.netlify.com/ 
 - https://github.com/mindDrift
 
-# <h2> GYST :: [Angela Vawser](http://hello-jelly.com/), [Luke Donahue](https://www.linkedin.com/in/lukedonahue/), [Allison Busse](http://www.allisonbusse.com) & [John Nelson](https://www.linkedin.com/in/johnnelson4850/)
+# <h2> BASIC ASS MAZE GAME :: [Sam Jespersen](https://www.linkedin.com/in/sam-mclain-jespersen/), [Jose Ojeda](https://www.linkedin.com/in/jose-a-ojeda/), [Kamran Ali](https://www.linkedin.com/in/kamran-g-ali/) & [Dylan Cordivae](https://www.linkedin.com/in/dylancorvidae/)
+Multiplayer game using socket.io, node.js, react.js that lets friends challenge each other to see who can solve a randomly generated maze first.
+- https://naughty-haibt-ed8a8b.netlify.com
+- https://github.com/Team-Amazing-Race
   
-Fullstack habit tracking app that allows users to create, update, and delete habits, set time-sensitive goals for each habit, track progress over time, and add comments every time they make progress. Created using MongoDB, Express, React & Redux, and Node, designed for mobile devices.
-- https://github.com/DNDL
-- https://www.gyst.dev
+  # <h2> CRYPTO TRADES :: [Joe Klause](https://www.linkedin.com/in/joe-klause/), [Evan Andrewson](https://www.linkedin.com/in/evan-andrewson/), [Pat Haynes](https://www.linkedin.com/in/pat-haynes/) & [Phil Fitch](https://www.linkedin.com/in/philfitch/)
 
-# <h2> PINDROP :: [Donna Lambert](https://www.linkedin.com/in/dlambertpdx/), [Ollie Comet](https://github.com/olliecomet), [Antonella Gutierrez](https://www.antonella-gutierrez.com/) & [Alex Spencer](www.alexjonspencer.com) 
-
-Sick of having to text all your friends to see who’s available for a cup of tea? A concert? A work session?
-
-Look no further. Pindrop makes it easy to let your friends know who, when, where, and what time. It’s a social app that can cure the back and forth of details, share the address of where you’ll be, and make plans with your friends a walk in the park. Sign up, follow your friends, post a pin, or just take a look and choose what activity/what friend you want to plan your day around. Spin this instant meetup option into your calendar and see how easy it can be to hang with the people you care about.
- - https://github.com/eez-meet-me/
- - http://pindrop.netlify.com/
- 
- # <h2> ARTAROUND :: [Joe Klause](https://www.linkedin.com/in/joe-klause/), [Evan Andrewson](https://www.linkedin.com/in/evan-andrewson/), [Pat Haynes](https://www.linkedin.com/in/pat-haynes/) & [Phil Fitch](https://www.linkedin.com/in/philfitch/)
-
-ArtAround is a social media platform for artists and galleries, helping both to connect with each other.  Our app helps break down traditional barriers artists face while making it easier for new galleries to discover new artistic talent.
- - https://serene-williams-6f2fcb.netlify.com/
+Crypto Trades was conceived as a way to practice trading in crypto currencies, using real time statics with fake money! Trade in over 1600 coins, learn about each of them, and track your progress!
+ - https://sleepy-brahmagupta-07740c.netlify.com
  - https://github.com/ArtAround2-secrets-of-the-ooze
+
+# <h2> NARRATIVE :: [Donna Lambert](https://www.linkedin.com/in/dlambertpdx/), [Ollie Comet](https://github.com/olliecomet), [Antonella Gutierrez](https://www.antonella-gutierrez.com/) & [Alex Spencer](www.alexjonspencer.com) 
+
+Narrative is a full-stack application designed to help storytellers, story writers, screenwriters, novelists, and others keep track of their ideas! Whether you’re building new stories, developing characters, chapters, worlds, or locations, Narrative is a safe place to store your ideas and organize your thoughts.
+ - https://github.com/team-narrative/narrative-fe/tree/master
+ - https://team-narrative.netlify.com/
+
+# <h2> GOOD MANNERS :: [Angela Vawser](http://hello-jelly.com/), [Luke Donahue](https://www.linkedin.com/in/lukedonahue/), [Allison Busse](http://www.allisonbusse.com) & [John Nelson](https://www.linkedin.com/in/johnnelson4850/)
+  
+Keep all of the relevant info about your home in one place with Good Manors. This app offers users the opportunity to create one or more digital homes. Each home has individual cards to store your content and drawers to keep those cards organized.
+- https://github.com/Good-Manors
+- https://good-manors.netlify.com/
 
 If you have questions about the program or want to talk about hiring one of our grads, please connect with Shannon Rasimas at shannon@alchemycodelab.com! 
