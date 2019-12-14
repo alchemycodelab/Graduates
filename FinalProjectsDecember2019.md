@@ -22,7 +22,7 @@ Multiplayer game using socket.io, node.js, react.js that lets friends challenge 
 ## CRYPTO TRADES :: [Joe Klause](https://www.linkedin.com/in/joe-klause/), [Evan Andrewson](https://www.linkedin.com/in/evan-andrewson/), [Pat Haynes](https://www.linkedin.com/in/pat-haynes/) & [Phil Fitch](https://www.linkedin.com/in/philfitch/)
 
 Crypto Trades was conceived as a way to practice trading in crypto currencies, using real time statics with fake money! Trade in over 1600 coins, learn about each of them, and track your progress!
- - [https://crptyo-trades-2020.netlify.com](https://crptyo-trades-2020.netlify.com)
+ - [https://crypto-trades-2020.netlify.com](https://crypto-trades-2020.netlify.com)
  - [https://github.com/Crypto-Punks](https://github.com/Crypto-Punks)
 
 ## NARRATIVE :: [Donna Lambert](https://www.linkedin.com/in/dlambertpdx/), [Ollie Comet](https://github.com/olliecomet), [Antonella Gutierrez](https://www.antonella-gutierrez.com/) & [Alex Spencer](https://www.alexjonspencer.com) 
