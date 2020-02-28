@@ -31,10 +31,19 @@ Narrative is a full-stack application designed to help storytellers, story write
  - [https://team-narrative.netlify.com](https://team-narrative.netlify.com)
  - [https://github.com/team-narrative/narrative-fe/tree/master](https://github.com/team-narrative)
 
+## Commit Kitty :: [Joel Patrick Durham](https://www.linkedin.com/in/joel-patrick-durham), [Jodi “JBJ” Kansagor](https://jodinkansagor.com), [Tess Lameyer](https://www.linkedin.com/in/tesslameyer/) & [Aaron Edward Glenn](https://www.linkedin.com/in/aaronedwardglenn/)
+  
+Commit Kitty is a productivity app that allows a team lead to view all of their developer’s most recent commit messages and times, utilizing GitHub’s extensive API. This app was developed for the Alchemy instructional staff, allowing them to check in on how students are doing, and see who might need help at the moment they need it the most!
+:smile_cat: Meow! :smile_cat:
+
+- Deployed Site: [https://good-manors.netlify.com](https://good-manors.netlify.com)
+- Github:(https://github.com/Commit-Kitty)
+
 ## goodmanors :: [Angela Vawser](http://hello-jelly.com/), [Luke Donahue](https://www.linkedin.com/in/lukedonahue/), [Allison Busse](http://www.allisonbusse.com) & [John Nelson](https://www.linkedin.com/in/johnnelson4850/)
   
 Keep all of the relevant info about your home in one place with Good Manors. This app offers users the opportunity to create one or more digital homes. Each home has individual cards to store your content and drawers to keep those cards organized.
 - [https://good-manors.netlify.com](https://good-manors.netlify.com)
 - [https://github.com/Good-Manors](https://github.com/Good-Manors)
+
 
 If you have questions about the program or want to talk about hiring one of our grads, please connect with Shannon Rasimas at shannon@alchemycodelab.com! 
