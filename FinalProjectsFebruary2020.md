@@ -12,7 +12,7 @@ Our emphasis on process, regular testing and immersive lab sessions allow our gr
   
 A Mixtape Maker for the Modern Era
 - Deployed Site: [https://mixt.netlify.com/] (Desktop viewing preferred)
-- Github:[https://github.com/Commit-Kitty]
+- Github:[https://github.com/MIXTTAPE]
 
 ## KIT :: [Sam Jespersen](https://www.linkedin.com/in/sam-mclain-jespersen/), [Jose Ojeda](https://www.linkedin.com/in/jose-a-ojeda/), [Kamran Ali](https://www.linkedin.com/in/kamran-g-ali/) & [Dylan Cordivae](https://www.linkedin.com/in/dylancorvidae/)
 Multiplayer game using socket.io, node.js, react.js that lets friends challenge each other to see who can solve a randomly generated maze first.
@@ -25,7 +25,7 @@ Crypto Trades was conceived as a way to practice trading in crypto currencies, u
  - [https://crypto-trades-2020.netlify.com](https://crypto-trades-2020.netlify.com)
  - [https://github.com/Crypto-Punks](https://github.com/Crypto-Punks)
 
-## KIT :: [Dan Meloy](https://www.linkedin.com/in/dan-meloy/), [Ali Muñiz](https://www.linkedin.com/in/munizao/), [Mike Grace](https://www.linkedin.com/in/mikeegrace/) & [Nick Brimmer](https://www.linkedin.com/in/nick-brimmer/) 
+## kit :: [Dan Meloy](https://www.linkedin.com/in/dan-meloy/), [Ali Muñiz](https://www.linkedin.com/in/munizao/), [Mike Grace](https://www.linkedin.com/in/mikeegrace/) & [Nick Brimmer](https://www.linkedin.com/in/nick-brimmer/) 
 
 Have you ever wanted a tool for improving your communication with the people that matter to you? Do you have personal or professional connections that you want to nourish with regular contact? kit can help. Track birthdays, family check-ins, professional contacts, and friends with ease, and never again worry about neglecting the connections that you care about.
  - Deployed Site: [https://friendlier-staging.netlify.com/] 
@@ -40,11 +40,11 @@ Commit Kitty is a productivity app that allows a team lead to view all of their 
 - Deployed Site: [https://commit-kitty-dev.netlify.com]
 - Github:[https://github.com/Commit-Kitty]
 
-## goodmanors :: [Angela Vawser](http://hello-jelly.com/), [Luke Donahue](https://www.linkedin.com/in/lukedonahue/), [Allison Busse](http://www.allisonbusse.com) & [John Nelson](https://www.linkedin.com/in/johnnelson4850/)
+## Plot a Pi :: [Lisa Carpenter](https://www.linkedin.com/in/lisacarpenter256/), [Jasmin Moneymaker](https://www.linkedin.com/in/jasminmoneymaker/), [Tali Avni](https://www.linkedin.com/in/tali-avni/), [Jacob Harrington](jharrington.io) & [Alan Hermanns](https://www.linkedin.com/in/alanhermanns/)
   
-Keep all of the relevant info about your home in one place with Good Manors. This app offers users the opportunity to create one or more digital homes. Each home has individual cards to store your content and drawers to keep those cards organized.
-- [https://good-manors.netlify.com](https://good-manors.netlify.com)
-- [https://github.com/Good-Manors](https://github.com/Good-Manors)
-
+Plot a Pi is an interactive app in celebration of Pi Day.  Features include a crowd-sourced approximation of pi, a Monte Carlo pi simulation, and group submissions of pi data.
+ - Deployed Site: [https://plot-a-pi-prod.firebaseapp.com/] 
+ - Github:[https://github.com/plot-a-pi/pi] (front end)
+ - Github:[https://github.com/plot-a-pi/pi-be] (back end)
 
 If you have questions about the program or want to talk about hiring one of our grads, please connect with Shannon Rasimas at shannon@alchemycodelab.com! 
