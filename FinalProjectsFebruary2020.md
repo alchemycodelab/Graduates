@@ -2,7 +2,7 @@
 
 Welcome to [Alchemy Code Lab](https://www.alchemycodelab.com)! 
 
-These students have just finished more than 800 hours of our professional software development training. They've learned how to harness the Full Stack JavaScript capabilities using React and Redux on the Front End with ExpressJS and MongoDB on the Back End (plus a touch of AWS S3, Socket.io, Github Oauth and the first time ever using PWA!).
+These students have just finished more than 800 hours of our professional software development training. They've learned how to harness the Full Stack JavaScript capabilities using React and Redux on the Front End with ExpressJS and MongoDB on the Back End (plus a touch of AWS S3, Socket.io, Github Oauth and much, much more!).
 
 Our emphasis on process, regular testing and immersive lab sessions allow our grads to understand how their coding works and why it does what it does. As the only engineering education in town that serves Portland and Portland only, combined with in-person training by experienced senior software developers, our grads are real contributors. We stay on top of the most used technologies and aim for our grads to evolve Portland's economy and community through the companies they go to work for. [Here is an overview](https://docs.google.com/document/d/1RVKZ4wzOLJn5OeIE-94riRoJGLpwLRG1SuBdGY7sedg/edit?usp=sharing) of their syllabus through our Career Track training.  
 
