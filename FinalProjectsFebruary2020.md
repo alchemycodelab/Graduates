@@ -8,13 +8,13 @@ Our emphasis on process, regular testing and immersive lab sessions allow our gr
 
 ## Below is an overview of the apps presented and links to their deployed and github profiles. Links to the LinkedIn profile or personal portfolio site for each student is also included:
 
-## mindDrift :: [Abbey Masters](https://www.linkedin.com/in/abbeymasters/), [Maeve Griffin](https://www.linkedin.com/in/maeve-anne-griffin/) & [Dave Trost](https://www.linkedin.com/in/dave-trost/)
+## MIXT :: [Ian Andrewson](https://www.linkedin.com/in/ianandrewson/), [Travis Molter](https://www.linkedin.com/in/travismolter/), [Joseph Tatum](https://josephtatum.com/) & [Matt Munch](https://www.linkedin.com/in/mattmunch/)
   
-You are a stressed parent, student or professional that needs an app to help you take a breath and practice being still. Many meditation apps have tons of features that are overwhelming and actually increase stress. mindDrift is simple and encouraging. Breathe, you’ve got this.
-- [http://mind-drift.netlify.com](http://mind-drift.netlify.com)
-- [https://github.com/mindDrift](https://github.com/mindDrift)
+A Mixtape Maker for the Modern Era
+- Deployed Site: [https://mixt.netlify.com/] (Desktop viewing preferred)
+- Github:[https://github.com/Commit-Kitty]
 
-## BASIC ASS MAZE GAME :: [Sam Jespersen](https://www.linkedin.com/in/sam-mclain-jespersen/), [Jose Ojeda](https://www.linkedin.com/in/jose-a-ojeda/), [Kamran Ali](https://www.linkedin.com/in/kamran-g-ali/) & [Dylan Cordivae](https://www.linkedin.com/in/dylancorvidae/)
+## KIT :: [Sam Jespersen](https://www.linkedin.com/in/sam-mclain-jespersen/), [Jose Ojeda](https://www.linkedin.com/in/jose-a-ojeda/), [Kamran Ali](https://www.linkedin.com/in/kamran-g-ali/) & [Dylan Cordivae](https://www.linkedin.com/in/dylancorvidae/)
 Multiplayer game using socket.io, node.js, react.js that lets friends challenge each other to see who can solve a randomly generated maze first.
 - [https://maze-race.netlify.com](https://maze-race.netlify.com)
 - [https://github.com/Team-Amazing-Race](https://github.com/Team-Amazing-Race)
@@ -25,19 +25,20 @@ Crypto Trades was conceived as a way to practice trading in crypto currencies, u
  - [https://crypto-trades-2020.netlify.com](https://crypto-trades-2020.netlify.com)
  - [https://github.com/Crypto-Punks](https://github.com/Crypto-Punks)
 
-## NARRATIVE :: [Donna Lambert](https://www.linkedin.com/in/dlambertpdx/), [Ollie Comet](https://github.com/olliecomet), [Antonella Gutierrez](https://www.antonella-gutierrez.com/) & [Alex Spencer](https://www.alexjonspencer.com) 
+## KIT :: [Dan Meloy](https://www.linkedin.com/in/dan-meloy/), [Ali Muñiz](https://www.linkedin.com/in/munizao/), [Mike Grace](https://www.linkedin.com/in/mikeegrace/) & [Nick Brimmer](https://www.linkedin.com/in/nick-brimmer/) 
 
-Narrative is a full-stack application designed to help storytellers, story writers, screenwriters, novelists, and others keep track of their ideas! Whether you’re building new stories, developing characters, chapters, worlds, or locations, Narrative is a safe place to store your ideas and organize your thoughts.
- - [https://team-narrative.netlify.com](https://team-narrative.netlify.com)
- - [https://github.com/team-narrative/narrative-fe/tree/master](https://github.com/team-narrative)
+Have you ever wanted a tool for improving your communication with the people that matter to you? Do you have personal or professional connections that you want to nourish with regular contact? kit can help. Track birthdays, family check-ins, professional contacts, and friends with ease, and never again worry about neglecting the connections that you care about.
+ - Deployed Site: [https://friendlier-staging.netlify.com/] 
+ - Github:[https://github.com/band-m/friendlier-fe] (front end)
+ - Github:[https://github.com/band-m/friendlier-be ] (back end)
 
 ## Commit Kitty :: [Joel Patrick Durham](https://www.linkedin.com/in/joel-patrick-durham), [Jodi “JBJ” Kansagor](https://jodinkansagor.com), [Tess Lameyer](https://www.linkedin.com/in/tesslameyer/) & [Aaron Edward Glenn](https://www.linkedin.com/in/aaronedwardglenn/)
   
 Commit Kitty is a productivity app that allows a team lead to view all of their developer’s most recent commit messages and times, utilizing GitHub’s extensive API. This app was developed for the Alchemy instructional staff, allowing them to check in on how students are doing, and see who might need help at the moment they need it the most!
 :smile_cat: Meow! :smile_cat:
 
-- Deployed Site: [https://good-manors.netlify.com](https://good-manors.netlify.com)
-- Github:(https://github.com/Commit-Kitty)
+- Deployed Site: [https://commit-kitty-dev.netlify.com]
+- Github:[https://github.com/Commit-Kitty]
 
 ## goodmanors :: [Angela Vawser](http://hello-jelly.com/), [Luke Donahue](https://www.linkedin.com/in/lukedonahue/), [Allison Busse](http://www.allisonbusse.com) & [John Nelson](https://www.linkedin.com/in/johnnelson4850/)
   
