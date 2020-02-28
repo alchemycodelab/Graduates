@@ -19,11 +19,13 @@ We love our pets. Pet Pals builds community and fights loneliness. Share the res
 - Deployed Site: https://pet-pals.netlify.com/
 - Github: https://github.com/Pet-Project-Alchemy
   
-## CRYPTO TRADES :: [Joe Klause](https://www.linkedin.com/in/joe-klause/), [Evan Andrewson](https://www.linkedin.com/in/evan-andrewson/), [Pat Haynes](https://www.linkedin.com/in/pat-haynes/) & [Phil Fitch](https://www.linkedin.com/in/philfitch/)
+## Vinyl Resting Place :: [Brittany Houtz](https://www.linkedin.com/in/brittanyhoutz/), [Sarah Mayfield](https://www.linkedin.com/in/sarah-mayfield/), [Casey Martell](https://www.linkedin.com/in/drmartell/) & [Aaron Mullan](https://www.linkedin.com/in/aaron-mullan/)
 
-Crypto Trades was conceived as a way to practice trading in crypto currencies, using real time statics with fake money! Trade in over 1600 coins, learn about each of them, and track your progress!
- - [https://crypto-trades-2020.netlify.com](https://crypto-trades-2020.netlify.com)
- - [https://github.com/Crypto-Punks](https://github.com/Crypto-Punks)
+Wantlist Watcher allows users to find personalized deals on the 53 Million items for sale in the Marketplace at Discogs.com.
+Users maintain their list of releases they want to purchase using the integrated Want List tool on Discogs.com.
+When a user enters their Discogs ID into Wantlist Watcher, their Discogs Wantlist is retrieved and the Discogs Marketplace is searched for currently available items for sale. The results of this search are then compared against the suggested prices for each item, and the best deal for each item is displayed. With filter options, the user is further able to customize the results.
+- Deployed Site: https://vinyl-project-production.netlify.com
+- Github: https://github.com/Our-Vinyl-Project
 
 ## kit :: [Dan Meloy](https://www.linkedin.com/in/dan-meloy/), [Ali Muñiz](https://www.linkedin.com/in/munizao/), [Mike Grace](https://www.linkedin.com/in/mikeegrace/) & [Nick Brimmer](https://www.linkedin.com/in/nick-brimmer/) 
 
