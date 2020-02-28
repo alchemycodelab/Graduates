@@ -14,10 +14,10 @@ A Mixtape Maker for the Modern Era
 - Deployed Site: https://mixt.netlify.com/ (Desktop viewing preferred)
 - Github:https://github.com/MIXTTAPE
 
-## KIT :: [Sam Jespersen](https://www.linkedin.com/in/sam-mclain-jespersen/), [Jose Ojeda](https://www.linkedin.com/in/jose-a-ojeda/), [Kamran Ali](https://www.linkedin.com/in/kamran-g-ali/) & [Dylan Cordivae](https://www.linkedin.com/in/dylancorvidae/)
-Multiplayer game using socket.io, node.js, react.js that lets friends challenge each other to see who can solve a randomly generated maze first.
-- [https://maze-race.netlify.com](https://maze-race.netlify.com)
-- [https://github.com/Team-Amazing-Race](https://github.com/Team-Amazing-Race)
+## Pet Pals :: [Nikki Sato](https://www.linkedin.com/in/nikkisato/), [Sam Sterns](https://www.linkedin.com/in/samsterns/), [Zak Hyslin](www.linkedin.com/in/zak-hyslin), [Eve Stockstill](https://www.linkedin.com/in/evestockstill/) & [Caleb Pendergraft](https://www.linkedin.com/in/caleb-pendergraft/)
+We love our pets. Pet Pals builds community and fights loneliness. Share the responsibilities of potty breaks or short walks with your new Pet Pal. Create your profile, search for dog-lovers in your area, use our chat to set up a meeting at the featured local dog-friendly spots.
+- Deployed Site: https://pet-pals.netlify.com/
+- Github: https://github.com/Pet-Project-Alchemy
   
 ## CRYPTO TRADES :: [Joe Klause](https://www.linkedin.com/in/joe-klause/), [Evan Andrewson](https://www.linkedin.com/in/evan-andrewson/), [Pat Haynes](https://www.linkedin.com/in/pat-haynes/) & [Phil Fitch](https://www.linkedin.com/in/philfitch/)
 
