@@ -11,41 +11,34 @@ Our emphasis on process, regular testing and immersive lab sessions allow our gr
 ## Shadespear  - Insult Bot :: [Fiona Ochs](https://www.linkedin.com/in/fionaochs/), [Scott Harlan](https://www.linkedin.com/in/scottharlan-pnw/), [Cody Brown](https://www.linkedin.com/in/codylylebrown/) & [James Eserjose](https://www.linkedin.com/in/jamesreserjose/)
   
 Markov generated bot that creates Shakspeare inspired insults.
-- FrontEnd Site: https://shadespeare-insults.herokuapp.com/
+- FrontEnd: https://shadespeare-insults.herokuapp.com/
 - BackEnd: https://github.com/Shakespeare-Insult-Bot/shadespeare-back-end
 
 ## Social Distance-Ping :: [Chelsea Spangler](https://www.linkedin.com/in/chelseanspangler/), [Jenna Goldman](https://www.linkedin.com/in/jennagoldman/), [Dannie Schumaker](https://www.linkedin.com/in/dannieschumaker/), [Rosalie Lee](https://www.linkedin.com/in/rosalielee/) & [Hannah Riley](https://www.linkedin.com/in/hannah-m-riley/)
 Get location-specific COVID-19 stats texted to your phone number on-demand or automatically each day at 5pm PST.
 - Github: https://github.com/Alchemy-Covid-19
   
-## Vinyl Resting Place :: [Brittany Houtz](https://www.linkedin.com/in/brittanyhoutz/), [Sarah Mayfield](https://www.linkedin.com/in/sarah-mayfield/), [Casey Martell](https://www.linkedin.com/in/drmartell/) & [Aaron Mullan](https://www.linkedin.com/in/aaron-mullan/)
+## Let’s Talk About It :: [Janelle Mellor](https://www.linkedin.com/in/janellemellor/), [Surelis Segarra](https://www.linkedin.com/in/surelis-segarra-bbbba3186/), [Josh Ford](https://www.linkedin.com/in/thisisjoshford/) & [Dakota Druley](https://www.linkedin.com/in/dakota-druley/)
 
-Wantlist Watcher allows users to find personalized deals on the 53 Million items for sale in the Marketplace at Discogs.com.
-Users maintain their list of releases they want to purchase using the integrated Want List tool on Discogs.com.
-When a user enters their Discogs ID into Wantlist Watcher, their Discogs Wantlist is retrieved and the Discogs Marketplace is searched for currently available items for sale. The results of this search are then compared against the suggested prices for each item, and the best deal for each item is displayed. With filter options, the user is further able to customize the results.
-- Deployed Site: https://vinyl-project-production.netlify.com
-- Github: https://github.com/Our-Vinyl-Project
+A bot that that helps promote the destigmatization of mental health by sharing facts and questions to help spark conversation and reflection.
+- Github: https://github.com/mental-health-twitterbot
 
-## kit :: [Dan Meloy](https://www.linkedin.com/in/dan-meloy/), [Ali Muñiz](https://www.linkedin.com/in/munizao/), [Mike Grace](https://www.linkedin.com/in/mikeegrace/) & [Nick Brimmer](https://www.linkedin.com/in/nick-brimmer/) 
+## Poetica-Technica On Twitter [@PoeticaTechnica](https://twitter.com/PoeticaTechnica) :: [Nathan Martel](https://www.linkedin.com/in/nathanmartel/) & [Dorje Kirsten](https://www.linkedin.com/in/dorjekirsten/)
 
-Have you ever wanted a tool for improving your communication with the people that matter to you? Do you have personal or professional connections that you want to nourish with regular contact? kit can help. Track birthdays, family check-ins, professional contacts, and friends with ease, and never again worry about neglecting the connections that you care about.
- - Deployed Site: https://friendlier-staging.netlify.com/ 
- - Github:https://github.com/band-m/friendlier-fe (front end)
- - Github: https://github.com/band-m/friendlier-be (back end)
+Art and Poetry are a reflection of mind. Here at PoeticaTechnica the great poets of the past twet Poegrams for you. To generate a Poegram visit the webiste.
+ - FrontEnd: https://github.com/Poetica-Technica/poetica-react
+ - BackEnd: https://github.com/Poetica-Technica/tabula-rasa
 
-## Commit Kitty :: [Joel Patrick Durham](https://www.linkedin.com/in/joel-patrick-durham), [Jodi “JBJ” Kansagor](https://jodinkansagor.com), [Tess Lameyer](https://www.linkedin.com/in/tesslameyer/) & [Aaron Edward Glenn](https://www.linkedin.com/in/aaronedwardglenn/)
+## Fresh Track :: [Will Piro](https://www.linkedin.com/in/willpiro/), [Mikey Romay](https://www.linkedin.com/in/michaelromay/) & [Chris Ficht](https://www.linkedin.com/in/chrisficht/)
   
-Commit Kitty is a productivity app that allows a team lead to view all of their developer’s most recent commit messages and times, utilizing GitHub’s extensive API. This app was developed for the Alchemy instructional staff, allowing them to check in on how students are doing, and see who might need help at the moment they need it the most!
-:smile_cat: Meow! :smile_cat:
+Freshtrack is a unique file repository that allows artists to listen to, share, and collaborate by collecting their unreleased and released music from their Soundcloud, Bandcamp, Google Drive and Dropbox music libraries all into one place.
 
-- Deployed Site: https://commit-kitty-dev.netlify.com
-- Github: https://github.com/Commit-Kitty
+- Github: https://github.com/fresh-track.
 
-## Plot a Pi :: [Lisa Carpenter](https://www.linkedin.com/in/lisacarpenter256/), [Jasmin Moneymaker](https://www.linkedin.com/in/jasminmoneymaker/), [Tali Avni](https://www.linkedin.com/in/tali-avni/), [Jacob Harrington](jharrington.io) & [Alan Hermanns](https://www.linkedin.com/in/alanhermanns/)
+## Slackers :: [Logan Scott](https://www.linkedin.com/in/logantscott/), [Anastasia Morozova](https://www.linkedin.com/in/morozova-anastasia/) & [Rex Bergeron](https://www.linkedin.com/in/rex-bergeron/)
   
-Plot a Pi is an interactive app in celebration of Pi Day.  Features include a crowd-sourced approximation of pi, a Monte Carlo pi simulation, and group submissions of pi data.
- - Deployed Site: https://plot-a-pi-prod.firebaseapp.com/ 
- - Github: https://github.com/plot-a-pi/pi (front end)
- - Github: https://github.com/plot-a-pi/pi-be (back end)
+This is an app to allow users to interact with slack to get information, and to add their own routes to external endpoints to return information to slack as a message (using slash commands /create and /hit).
+
+ - Github: https://github.com/Slackers-LLC/slackbot
 
 If you have questions about the program or want to talk about hiring one of our grads, please connect with Shannon Rasimas at shannon@alchemycodelab.com! 
