@@ -2,22 +2,21 @@
 
 Welcome to [Alchemy Code Lab](https://www.alchemycodelab.com)! 
 
-These students have just finished more than 800 hours of our professional software development training. They've learned how to harness the Full Stack JavaScript capabilities using React and Redux on the Front End with ExpressJS and MongoDB on the Back End (plus a touch of AWS S3, Socket.io, Github Oauth and much, much more!).
+These students are 7 weeks from finishing our professional software development training. Following you will find their BackEnd Projects which harnesses the use of MongoDB, NodeJS and Express. These projects were built in a one week sprint, remotely. The first time Alchemy students have ever done so this way. 
 
 Our emphasis on process, regular testing and immersive lab sessions allow our grads to understand how their coding works and why it does what it does. As the only engineering education in town that serves Portland and Portland only, combined with in-person training by experienced senior software developers, our grads are real contributors. We stay on top of the most used technologies and aim for our grads to evolve Portland's economy and community through the companies they go to work for. [Here is an overview](https://docs.google.com/document/d/1RVKZ4wzOLJn5OeIE-94riRoJGLpwLRG1SuBdGY7sedg/edit?usp=sharing) of their syllabus through our Career Track training.  
 
-## Below is an overview of the apps presented and links to their deployed and github profiles. Links to the LinkedIn profile or personal portfolio site for each student is also included:
+## Below is an overview of the apps presented and links to their deployed and github profiles. Links to the LinkedIn profile each student is also included:
 
-## MIXT :: [Ian Andrewson](https://www.linkedin.com/in/ianandrewson/), [Travis Molter](https://www.linkedin.com/in/travismolter/), [Joseph Tatum](https://josephtatum.com/) & [Matt Munch](https://www.linkedin.com/in/mattmunch/)
+## Shadespear  - Insult Bot :: [Fiona Ochs](https://www.linkedin.com/in/fionaochs/), [Scott Harlan](https://www.linkedin.com/in/scottharlan-pnw/), [Cody Brown](https://www.linkedin.com/in/codylylebrown/) & [James Eserjose](https://www.linkedin.com/in/jamesreserjose/)
   
-A Mixtape Maker for the Modern Era
-- Deployed Site: https://mixt.netlify.com/ (Desktop viewing preferred)
-- Github:https://github.com/MIXTTAPE
+Markov generated bot that creates Shakspeare inspired insults.
+- FrontEnd Site: https://shadespeare-insults.herokuapp.com/
+- BackEnd: https://github.com/Shakespeare-Insult-Bot/shadespeare-back-end
 
-## Pet Pals :: [Nikki Sato](https://www.linkedin.com/in/nikkisato/), [Sam Sterns](https://www.linkedin.com/in/samsterns/), [Zak Hyslin](www.linkedin.com/in/zak-hyslin), [Eve Stockstill](https://www.linkedin.com/in/evestockstill/) & [Caleb Pendergraft](https://www.linkedin.com/in/caleb-pendergraft/)
-We love our pets. Pet Pals builds community and fights loneliness. Share the responsibilities of potty breaks or short walks with your new Pet Pal. Create your profile, search for dog-lovers in your area, use our chat to set up a meeting at the featured local dog-friendly spots.
-- Deployed Site: https://pet-pals.netlify.com/
-- Github: https://github.com/Pet-Project-Alchemy
+## Social Distance-Ping :: [Chelsea Spangler](https://www.linkedin.com/in/chelseanspangler/), [Jenna Goldman](https://www.linkedin.com/in/jennagoldman/), [Dannie Schumaker](https://www.linkedin.com/in/dannieschumaker/), [Rosalie Lee](https://www.linkedin.com/in/rosalielee/) & [Hannah Riley](https://www.linkedin.com/in/hannah-m-riley/)
+Get location-specific COVID-19 stats texted to your phone number on-demand or automatically each day at 5pm PST.
+- Github: https://github.com/Alchemy-Covid-19
   
 ## Vinyl Resting Place :: [Brittany Houtz](https://www.linkedin.com/in/brittanyhoutz/), [Sarah Mayfield](https://www.linkedin.com/in/sarah-mayfield/), [Casey Martell](https://www.linkedin.com/in/drmartell/) & [Aaron Mullan](https://www.linkedin.com/in/aaron-mullan/)
 
