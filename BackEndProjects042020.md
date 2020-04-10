@@ -25,7 +25,9 @@ A bot that that helps promote the destigmatization of mental health by sharing f
 
 ## Poetica-Technica On Twitter [@PoeticaTechnica](https://twitter.com/PoeticaTechnica) :: [Nathan Martel](https://www.linkedin.com/in/nathanmartel/) & [Dorje Kirsten](https://www.linkedin.com/in/dorjekirsten/)
 
-Art and Poetry are a reflection of mind. Here at PoeticaTechnica the great poets of the past twet Poegrams for you. To generate a Poegram visit the webiste.
+Tabula-Rasa is the back end of the Poegram front end site, it is  written by Nathan Martel, Dorje Kirsten and Erin. It uses the Poetry DB database to construct single line random poems from a chosen author or a completely random line. This line of poetry is then dropped onto an image that is randomly generated to create a Poegram.
+
+While we engaged in a project of creating code that could present this experience to you, it was our sincere wish that we were also creating a tool for reflection, appreciation, contemplation, writing prompts, or even casual divination. This is what a poegram is. A tabula-rasa, so to speak, for you to experience, generate, and share with the world.
  - FrontEnd: https://github.com/Poetica-Technica/poetica-react
  - BackEnd: https://github.com/Poetica-Technica/tabula-rasa
 
