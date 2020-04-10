@@ -41,4 +41,4 @@ This is an app to allow users to interact with slack to get information, and to 
 
  - Github: https://github.com/Slackers-LLC/slackbot
 
-If you have questions about the program or want to talk about hiring one of our grads, please connect with Shannon Rasimas at shannon@alchemycodelab.com! 
+If you have questions about the program or want to talk about hiring one of our grads, please connect with Shannon Rasimas at shannon@alchemycodelab.com!
