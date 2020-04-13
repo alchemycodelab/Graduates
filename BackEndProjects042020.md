@@ -18,7 +18,7 @@ Markov generated bot that creates Shakspeare inspired insults.
 ## Social Distance-Ping :: [Chelsea Spangler](https://www.linkedin.com/in/chelseanspangler/), [Jenna Goldman](https://www.linkedin.com/in/jennagoldman/), [Dannie Schumaker](https://www.linkedin.com/in/dannieschumaker/), [Rosalie Lee](https://www.linkedin.com/in/rosalielee/) & [Hannah Riley](https://www.linkedin.com/in/hannah-m-riley/)
 Get location-specific COVID-19 stats texted to your phone number on-demand or automatically each day at 5pm PST.
 - Github: https://github.com/Alchemy-Covid-19
-- [Video Predentation] (https://zoom.us/rec/play/65V8I-Ch-jI3TNXA4wSDBfJ-W9Tpf_is1nMW8_sJxU7hW3YEYFKnMuBEareG6mo3_nhcnxJ7IA-FwqQJ) (Password: R92CTBmcUo)
+- [Video Predentation](https://zoom.us/rec/play/65V8I-Ch-jI3TNXA4wSDBfJ-W9Tpf_is1nMW8_sJxU7hW3YEYFKnMuBEareG6mo3_nhcnxJ7IA-FwqQJ) (Password: R92CTBmcUo)
   
 ## Let’s Talk About It :: [Janelle Mellor](https://www.linkedin.com/in/janellemellor/), [Surelis Segarra](https://www.linkedin.com/in/surelis-segarra-bbbba3186/), [Josh Ford](https://www.linkedin.com/in/thisisjoshford/) & [Dakota Druley](https://www.linkedin.com/in/dakota-druley/)
 
