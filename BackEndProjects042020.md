@@ -13,7 +13,7 @@ Our emphasis on process, regular testing and immersive lab sessions allow our gr
 Markov generated bot that creates Shakspeare inspired insults.
 - FrontEnd: https://shadespeare-insults.herokuapp.com/
 - BackEnd: https://github.com/Shakespeare-Insult-Bot/shadespeare-back-end
-- [Video Predentation] (https://zoom.us/rec/play/uJN_Iu2sqDw3GdXHtwSDUfV6W47ue_qs1yYc-vUFzhrmVyJWNgGvMrpAZLOxOJa5999aVavGihc7B_Cp) (Password: R92CTBmcUo):
+- [Video Predentation](https://zoom.us/rec/play/uJN_Iu2sqDw3GdXHtwSDUfV6W47ue_qs1yYc-vUFzhrmVyJWNgGvMrpAZLOxOJa5999aVavGihc7B_Cp) (Password: R92CTBmcUo):
 
 ## Social Distance-Ping :: [Chelsea Spangler](https://www.linkedin.com/in/chelseanspangler/), [Jenna Goldman](https://www.linkedin.com/in/jennagoldman/), [Dannie Schumaker](https://www.linkedin.com/in/dannieschumaker/), [Rosalie Lee](https://www.linkedin.com/in/rosalielee/) & [Hannah Riley](https://www.linkedin.com/in/hannah-m-riley/)
 Get location-specific COVID-19 stats texted to your phone number on-demand or automatically each day at 5pm PST.
@@ -33,20 +33,20 @@ Tabula-Rasa is the back end of the Poegram front end site, it is  written by Nat
 While we engaged in a project of creating code that could present this experience to you, it was our sincere wish that we were also creating a tool for reflection, appreciation, contemplation, writing prompts, or even casual divination. This is what a poegram is. A tabula-rasa, so to speak, for you to experience, generate, and share with the world.
  - FrontEnd: https://github.com/Poetica-Technica/poetica-react
  - BackEnd: https://github.com/Poetica-Technica/tabula-rasa
- - [Video Predentation] (https://zoom.us/rec/play/ucF7IequqGo3G9zHtgSDAf9-W9S7KfqsgyYY_6Zey0vjV3QHMAGjNecaa-Fn85Vt8fyrEO_mRHOPWl3p) (Password: R92CTBmcUo):
+ - [Video Predentation](https://zoom.us/rec/play/ucF7IequqGo3G9zHtgSDAf9-W9S7KfqsgyYY_6Zey0vjV3QHMAGjNecaa-Fn85Vt8fyrEO_mRHOPWl3p) (Password: R92CTBmcUo):
 
 ## Fresh Track :: [Will Piro](https://www.linkedin.com/in/willpiro/), [Mikey Romay](https://www.linkedin.com/in/michaelromay/) & [Chris Ficht](https://www.linkedin.com/in/chrisficht/)
   
 Freshtrack is a unique file repository that allows artists to listen to, share, and collaborate by collecting their unreleased and released music from their Soundcloud, Bandcamp, Google Drive and Dropbox music libraries all into one place.
 
 - Github: https://github.com/fresh-track
-- [Video Predentation] (https://zoom.us/rec/play/7sAqd-iv_T43HoaXsASDV_5wW9S9JqishCgXrPYKnxrjUSEKNgeuNbBHM7CGAjrkIsmMBPNr43fYBipZ) (Password: R92CTBmcUo):
+- [Video Predentation](https://zoom.us/rec/play/7sAqd-iv_T43HoaXsASDV_5wW9S9JqishCgXrPYKnxrjUSEKNgeuNbBHM7CGAjrkIsmMBPNr43fYBipZ) (Password: R92CTBmcUo):
 
 ## Slackers :: [Logan Scott](https://www.linkedin.com/in/logantscott/), [Anastasia Morozova](https://www.linkedin.com/in/morozova-anastasia/) & [Rex Bergeron](https://www.linkedin.com/in/rex-bergeron/)
   
 This is an app to allow users to interact with slack to get information, and to add their own routes to external endpoints to return information to slack as a message (using slash commands /create and /hit).
 
  - Github: https://github.com/Slackers-LLC/slackbot
- - [Video Predentation] (https://zoom.us/rec/play/uMEkde-rrzM3ToKcsQSDAPQrW9XpKqish3BN_qIPxEqwVHIKZ1v1YeBEa-U1884nMWoPFNApBDepMT2V) (Password: R92CTBmcUo):
+ - [Video Predentation](https://zoom.us/rec/play/uMEkde-rrzM3ToKcsQSDAPQrW9XpKqish3BN_qIPxEqwVHIKZ1v1YeBEa-U1884nMWoPFNApBDepMT2V) (Password: R92CTBmcUo):
 
 If you have questions about the program or want to talk about hiring one of our grads, please connect with Shannon Rasimas at shannon@alchemycodelab.com!
