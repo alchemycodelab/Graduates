@@ -15,7 +15,7 @@ Tech used: React with Redux, Node.js, MongoDB, Express, integrations with Google
 
  - Live Site: https://secretmenu.netlify.com/
 - Github: https://github.com/Secret-Menu
-- [Video Predentation] Coming soon!
+- [Video Presentation] Coming soon!
 
 ## Just a Recipe :: [Surelis Segarra](https://www.linkedin.com/in/surelis-segarra-bbbba3186/), [Cody Brown](https://www.linkedin.com/in/codylylebrown/), [Anastasia Morozova](https://www.linkedin.com/in/morozova-anastasia/), [Dorje Kirsten](https://www.linkedin.com/in/dorjekirsten/), & [James Eserjose](https://www.linkedin.com/in/jamesreserjose/)
 
@@ -25,7 +25,7 @@ It is created with  React, NodeJS, Firebase, and MongoDB.
 - Live Site: https://justarecipe.netlify.app/
 - Github (FrontEnd): https://github.com/Just-A-Recipe/Just-A-Recipe-Front-End
 - Github (BackEnd): https://github.com/Just-A-Recipe/Just-A-Recipe-Back-End
-- [Video Predentation] Coming soon!
+- [Video Presentation] Coming soon!
   
 ## Alcherithm :: [Janelle Mellor](https://www.linkedin.com/in/janellemellor/), [Dannie Schumaker](https://www.linkedin.com/in/dannieschumaker/), [Dakota Druley](https://www.linkedin.com/in/dakota-druley/), [Will Piro](https://www.linkedin.com/in/willpiro/), & [Mikey Romay](https://www.linkedin.com/in/michaelromay/)
 
@@ -33,17 +33,17 @@ A code companion. Budding software developers often struggle with the learning p
 
 - Live Site: https://alcherithm.netlify.app/
 - Github: https://github.com/Alcherithm
-- [Video Predentation] Coming soon!
+- [Video Presentation] Coming soon!
 
-## Going Viral :: [Chelsea Spangler](https://www.linkedin.com/in/chelseanspangler/), [Fiona Ochs](https://www.linkedin.com/in/fionaochs/), [Scott Harlan](https://www.linkedin.com/in/scottharlan-pnw/), [Nathan Martel](https://www.linkedin.com/in/nathanmartel/)
+## Going Viral :: [Chelsea Spangler](https://www.linkedin.com/in/chelseanspangler/), [Fiona Ochs](https://www.linkedin.com/in/fionaochs/), [Scott Harlan](https://scottharlan.dev/), [Nathan Martel](https://www.linkedin.com/in/nathanmartel/)
   
-Interactive pandemic mobility metrics using large data sets supplied by Google and Bing. Allowing cross country comparisons for change in social behaviors during times of quarantine. Built with Material UI, React, D3, and MongoDB.
+Interactive pandemic mobility metrics using large data sets supplied by Google and Bing. Allowing cross country comparisons for change in social behaviors during times of quarantine. Built with Material UI, React, Redux, D3, and MongoDB.
 
 Answering the question, are the stay at home measures impacting how peoples habits change.
 
 - Live Site: https://goingviral.netlify.app/
 - Github: https://github.com/Going-Viral
-- [Video Predentation] Coming soon!
+- [Video Presentation] Coming soon!
 
 
 If you have questions about the program or want to talk about hiring one of our grads, please connect with Shannon Rasimas at shannon@alchemycodelab.com!
