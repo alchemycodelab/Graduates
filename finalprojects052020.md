@@ -18,7 +18,7 @@ Answering the question, are the stay at home measures impacting how peoples habi
 - Github: https://github.com/Going-Viral
 - [Video Predentation] Coming soon!
 
-## Just a Recipe :: [Surelis Segarra](https://www.linkedin.com/in/surelis-segarra-bbbba3186/), [Cody Brown](https://www.linkedin.com/in/codylylebrown/), [Anastasia Morozova](https://www.linkedin.com/in/morozova-anastasia/), [Dorje Kirsten](https://www.linkedin.com/in/dorjekirsten/), & [James Eserjose](https://www.linkedin.com/in/jamesreserjose/)[Jenna Goldman](https://www.linkedin.com/in/jennagoldman/), & [Hannah Riley](https://www.linkedin.com/in/hannah-m-riley/)
+## Just a Recipe :: [Surelis Segarra](https://www.linkedin.com/in/surelis-segarra-bbbba3186/), [Cody Brown](https://www.linkedin.com/in/codylylebrown/), [Anastasia Morozova](https://www.linkedin.com/in/morozova-anastasia/), [Dorje Kirsten](https://www.linkedin.com/in/dorjekirsten/), & [James Eserjose](https://www.linkedin.com/in/jamesreserjose/)
 
 An app designed to make searching for the perfect recipe delightful and easy. It searches with considerations of diet and allergy preferences for your favorite foods and meals making meal planning and cooking a breeze.
 It is created with  React, NodeJS, Firebase, and MongoDB.
@@ -36,22 +36,14 @@ A code companion. Budding software developers often struggle with the learning p
 - Github: https://github.com/Alcherithm
 - [Video Predentation] Coming soon!
 
-## Poetica-Technica On Twitter [@PoeticaTechnica](https://twitter.com/PoeticaTechnica) :: [Josh Ford](https://www.linkedin.com/in/thisisjoshford/), & 
+## PDX Secret Menu :: [Jenna Goldman](http://jennagoldman.com/), [Hannah Riley](https://www.linkedin.com/in/hannah-m-riley/), [Josh Ford](https://www.linkedin.com/in/thisisjoshford/), & [Chris Ficht](https://www.linkedin.com/in/chrisficht/)
 
-Tabula-Rasa is the back end of the Poegram front end site, it is  written by Nathan Martel, Dorje Kirsten and Erin. It uses the Poetry DB database to construct single line random poems from a chosen author or a completely random line. This line of poetry is then dropped onto an image that is randomly generated to create a Poegram.
+PDX Secret Menu is here to help both hungry Portland foodies and restaurant owners during these strange times! As local restaurants are currently unable to open for dine-in service, many owners are re-evaluating their business models and beginning to offer new formats of take-out options. PDX Secret Menu allows restaurants to sign up and register their businesses, populate current offerings, and create polls to find out what foodies are interested in seeing from them in the future. Foodies are also able to sign up, vote on polls, and purchase live offerings for scheduled pickup from their favorite restaurants.
+Tech used: React with Redux, Node.js, MongoDB, Express, integrations with Google Maps and Stripe.
 
-While we engaged in a project of creating code that could present this experience to you, it was our sincere wish that we were also creating a tool for reflection, appreciation, contemplation, writing prompts, or even casual divination. This is what a poegram is. A tabula-rasa, so to speak, for you to experience, generate, and share with the world.
  - Live Site: https://goingviral.netlify.app/
-- Github: https://github.com/Going-Viral
+- Github: https://github.com/Secret-Menu
 - [Video Predentation] Coming soon!
-
-## Fresh Track ::  & [Chris Ficht](https://www.linkedin.com/in/chrisficht/)
-  
-Freshtrack is a unique file repository that allows artists to listen to, share, and collaborate by collecting their unreleased and released music from their Soundcloud, Bandcamp, Google Drive and Dropbox music libraries all into one place.
-
-- Github: https://github.com/fresh-track
-- [Video Predentation](https://zoom.us/rec/play/7sAqd-iv_T43HoaXsASDV_5wW9S9JqishCgXrPYKnxrjUSEKNgeuNbBHM7CGAjrkIsmMBPNr43fYBipZ) (Password: R92CTBmcUo):
-
 
 
 If you have questions about the program or want to talk about hiring one of our grads, please connect with Shannon Rasimas at shannon@alchemycodelab.com!
