@@ -14,7 +14,7 @@ Going Viral creates dynamic, interactive data visualizations to compare COVID-19
 
 - Live Site: https://goingviral.netlify.app/
 - Github: https://github.com/Going-Viral
-- [Video Presentation] Coming soon!
+- [Video Presentation](https://zoom.us/rec/share/veZ1C4r71mJLQ7Piwx_VUJYZRdXgX6a8hnVN-PJenk6RcJT09Kq1SkKlNGGi-zox?startTime=1590793266000) (Password: 7O?Vi0*.):
 
 ## PDX Secret Menu :: [Jenna Goldman](http://jennagoldman.com/), [Hannah Riley](https://www.linkedin.com/in/hannah-m-riley/), [Josh Ford](https://www.linkedin.com/in/thisisjoshford/), & [Chris Ficht](https://www.linkedin.com/in/chrisficht/)
 
@@ -23,7 +23,7 @@ Tech used: React with Redux, Node.js, MongoDB, Express, integrations with Google
 
  - Live Site: https://secretmenu.netlify.com/
 - Github: https://github.com/Secret-Menu
-- [Video Presentation] Coming soon!
+- [Video Presentation](https://zoom.us/rec/share/veZ1C4r71mJLQ7Piwx_VUJYZRdXgX6a8hnVN-PJenk6RcJT09Kq1SkKlNGGi-zox?startTime=1590786477000) (Password: 7O?Vi0*.):
   
 ## Alcherithm :: [Janelle Mellor](https://www.linkedin.com/in/janellemellor/), [Dannie Schumaker](https://www.linkedin.com/in/dannieschumaker/), [Dakota Druley](https://www.linkedin.com/in/dakota-druley/), [Will Piro](https://www.linkedin.com/in/willpiro/), & [Mikey Romay](https://www.linkedin.com/in/michaelromay/)
 
@@ -31,7 +31,7 @@ A code companion. Budding software developers often struggle with the learning p
 
 - Live Site: https://alcherithm.netlify.app/
 - Github: https://github.com/Alcherithm
-- [Video Presentation] Coming soon!
+- [Video Presentation](https://zoom.us/rec/share/veZ1C4r71mJLQ7Piwx_VUJYZRdXgX6a8hnVN-PJenk6RcJT09Kq1SkKlNGGi-zox?startTime=1590790295000) (Password: 7O?Vi0*.):
 
 ## Just a Recipe :: [Surelis Segarra](https://www.linkedin.com/in/surelis-segarra-bbbba3186/), [Cody Brown](https://www.linkedin.com/in/codylylebrown/), [Anastasia Morozova](https://www.linkedin.com/in/morozova-anastasia/), [Dorje Kirsten](https://www.linkedin.com/in/dorjekirsten/), & [James Eserjose](https://www.linkedin.com/in/jamesreserjose/)
 
@@ -41,6 +41,6 @@ It is created with  React, NodeJS, Firebase, and MongoDB.
 - Live Site: https://justarecipe.netlify.app/
 - Github (FrontEnd): https://github.com/Just-A-Recipe/Just-A-Recipe-Front-End
 - Github (BackEnd): https://github.com/Just-A-Recipe/Just-A-Recipe-Back-End
-- [Video Presentation] Coming soon!
+- [Video Presentation](https://zoom.us/rec/share/veZ1C4r71mJLQ7Piwx_VUJYZRdXgX6a8hnVN-PJenk6RcJT09Kq1SkKlNGGi-zox?startTime=1590788532000) (Password: 7O?Vi0*.):
 
 If you have questions about the program or want to talk about hiring one of our grads, please connect with Shannon Rasimas at shannon@alchemycodelab.com!
