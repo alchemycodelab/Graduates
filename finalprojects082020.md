@@ -10,9 +10,9 @@ Our emphasis on process, regular testing and immersive lab sessions allow our gr
 
 ## DropZone :: [Erik Ford](https://www.linkedin.com/in/erik-ford-business/), [Dan Bennington](https://www.linkedin.com/in/dan-bennington/), [Jake Pendergraft](https://www.linkedin.com/in/jake-pendergraft/), [Lucia Brammer](https://lucia-brammer.com/), & [Max Lamb](https://www.linkedin.com/in/max-lamb/)
   
-DropZone allows users to get straight to the action of earning in game rewards by watching there favorite streamers live on Twitch. Cut through the hassle of having to search through hundreds of games and thousands of streamers and get straight to earning drops!
+DropZone allows users to get straight to the action of earning in game rewards by watching their favorite streamers live on Twitch. Cut through the hassle of having to search through hundreds of games and thousands of streamers and get straight to earning drops!
 
-- Live Site: https://hardcore-mirzakhani-c9f87b.netlify.app/ 
+- Live Site: https://thedropzone.netlify.app/
 - Github (Front End): https://github.com/DropTopIncorporated/DropZoneFE/tree/master
 - Github (Back End): https://github.com/DropTopIncorporated/DropZoneBE/tree/master
 - [Video Presentation]: Coming soon!
