@@ -1,20 +1,21 @@
-# Alchemy Code Final Projects - May 2020
+# Alchemy Code Final Projects - August 2020
 
 Welcome to [Alchemy Code Lab](https://www.alchemycodelab.com)! 
 
-These students are finishing our professional software development training. Following you will find their Final Projects which harnesses the use of React, Redux, MongoDB, NodeJS, Express, Firebase, D3, Stripe and more. These projects were built in a one week sprint, remotely.
+These students are finishing our professional software development training. They are the first group to start with us remotely, and have learned to code, collaborate and be incredible teammates remotely. Following you will find their Final Projects which harnesses the use of React, Redux, MongoDB, NodeJS, Express, Firebase, D3, Stripe and more. These projects were built in a one week sprint, remotely.
 
 Our emphasis on process, regular testing and immersive lab sessions allow our grads to understand how their coding works and why it does what it does. As the only engineering education in town that serves Portland and Portland only, combined with in-person training by experienced senior software developers, our grads are real contributors. We stay on top of the most used technologies and aim for our grads to evolve Portland's economy and community through the companies they go to work for. [Here is an overview](https://docs.google.com/document/d/1RVKZ4wzOLJn5OeIE-94riRoJGLpwLRG1SuBdGY7sedg/edit?usp=sharing) of their syllabus through our Career Track training.  
 
 ## Below is an overview of the apps presented and links to their sites and video of their presentations. Links to the LinkedIn profile each student is also included.
 
-## Going Viral :: [Chelsea Spangler](https://www.linkedin.com/in/chelseanspangler/), [Fiona Ochs](https://www.linkedin.com/in/fionaochs/), [Scott Harlan](https://scottharlan.dev/), [Nathan Martel](https://www.linkedin.com/in/nathanmartel/)
+## DropZone :: [Erik Ford](https://www.linkedin.com/in/erik-ford-business/), [Dan Bennington](https://www.linkedin.com/in/dan-bennington/), [Jake Pendergraft](https://www.linkedin.com/in/jake-pendergraft/), [Lucia Brammer](https://lucia-brammer.com/), & [Max Lamb](https://www.linkedin.com/in/max-lamb/)
   
-Going Viral creates dynamic, interactive data visualizations to compare COVID-19 statistics to global changes in people's travel habits. In a one-week sprint, we built an API with Node, Express, and MongoDB, and used D3, React, Redux, and MaterialUI to write our front end.
+DropZone allows users to get straight to the action of earning in game rewards by watching there favorite streamers live on Twitch. Cut through the hassle of having to search through hundreds of games and thousands of streamers and get straight to earning drops!
 
-- Live Site: https://goingviral.netlify.app/
-- Github: https://github.com/Going-Viral
-- [Video Presentation](https://zoom.us/rec/share/veZ1C4r71mJLQ7Piwx_VUJYZRdXgX6a8hnVN-PJenk6RcJT09Kq1SkKlNGGi-zox?startTime=1590793266000) (Password: 7O?Vi0*.):
+- Live Site: https://hardcore-mirzakhani-c9f87b.netlify.app/ 
+- Github (Front End): https://github.com/DropTopIncorporated/DropZoneFE/tree/master
+- - Github (Back End): https://github.com/DropTopIncorporated/DropZoneBE/tree/master
+- [Video Presentation]: Coming soon!
 
 ## PDX Secret Menu :: [Jenna Goldman](http://jennagoldman.com/), [Hannah Riley](https://www.linkedin.com/in/hannah-m-riley/), [Josh Ford](https://www.linkedin.com/in/thisisjoshford/), & [Chris Ficht](https://www.linkedin.com/in/chrisficht/)
 
