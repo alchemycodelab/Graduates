@@ -2,7 +2,7 @@
 
 Welcome to [Alchemy Code Lab](https://www.alchemycodelab.com)! 
 
-These students are finishing our professional software development training. They are the first group to start with us remotely, and have learned to code, collaborate and be incredible teammates remotely. Following you will find their Final Projects which harnesses the use of React, Redux, MongoDB, NodeJS, Express, Firebase, D3, Stripe and more. These projects were built in a one week sprint, remotely.
+These students are finishing our professional software development training. They are the first group to start with us remotely, and have learned to code, collaborate and be incredible teammates working from their homes. Following you will find their Final Projects which harnesses the use of React, Redux, MongoDB, NodeJS, Express, Socket.io and more. These projects were built in a one week sprint, remotely.
 
 Our emphasis on process, regular testing and immersive lab sessions allow our grads to understand how their coding works and why it does what it does. As the only engineering education in town that serves Portland and Portland only, combined with in-person training by experienced senior software developers, our grads are real contributors. We stay on top of the most used technologies and aim for our grads to evolve Portland's economy and community through the companies they go to work for. [Here is an overview](https://docs.google.com/document/d/1RVKZ4wzOLJn5OeIE-94riRoJGLpwLRG1SuBdGY7sedg/edit?usp=sharing) of their syllabus through our Career Track training.  
 
@@ -26,22 +26,12 @@ It’s a pocket garden application that allows plant newbies and botanists alike
 - Github (Back End): https://github.com/GOATDreamTeam/backend 
 - [Video Presentation]: Coming soon!
   
-## Alcherithm :: [Janelle Mellor](https://www.linkedin.com/in/janellemellor/), [Dannie Schumaker](https://www.linkedin.com/in/dannieschumaker/), [Dakota Druley](https://www.linkedin.com/in/dakota-druley/), [Will Piro](https://www.linkedin.com/in/willpiro/), & [Mikey Romay](https://www.linkedin.com/in/michaelromay/)
+## Songs About Humanity :: [Melissa Smoot](https://smoot.dog/), [Jaime Sanders](https://www.linkedin.com/in/jaimelyn/), [Hunter Danielson](https://hdanielson.com/), & [Joey Leaptrott](https://www.linkedin.com/in/joey-leaptrott/) 
 
-A code companion. Budding software developers often struggle with the learning process of code challenges. This learning platform combines resources, videos and documentation to help developers build a foundation. Users can not only practice from our library of code challenges, but they can also review past attempts at various problems. We invite you take the Alcherithm challenge; happy coding!
+Songs About Humanity allows players to join rooms and compete to give the best song recommendations when given a prompt, similar to Apples to Apples or Cards Against Humanity), in real-time. Front-end was built with React, Redux, and Socket.io, back-end with Node and Socket.io, with music playing and searching done via the Spotify API and Spotify web playback SDK.
 
-- Live Site: https://alcherithm.netlify.app/
-- Github: https://github.com/Alcherithm
-- [Video Presentation](https://zoom.us/rec/share/veZ1C4r71mJLQ7Piwx_VUJYZRdXgX6a8hnVN-PJenk6RcJT09Kq1SkKlNGGi-zox?startTime=1590790295000) (Password: 7O?Vi0*.):
-
-## Just a Recipe :: [Surelis Segarra](https://www.linkedin.com/in/surelis-segarra-bbbba3186/), [Cody Brown](https://www.linkedin.com/in/codylylebrown/), [Anastasia Morozova](https://www.linkedin.com/in/morozova-anastasia/), [Dorje Kirsten](https://www.linkedin.com/in/dorjekirsten/), & [James Eserjose](https://www.linkedin.com/in/jamesreserjose/)
-
-An app designed to make searching for the perfect recipe delightful and easy. It searches with considerations of diet and allergy preferences for your favorite foods and meals making meal planning and cooking a breeze.
-It is created with  React, NodeJS, Firebase, and MongoDB.
-
-- Live Site: https://justarecipe.netlify.app/
-- Github (FrontEnd): https://github.com/Just-A-Recipe/Just-A-Recipe-Front-End
-- Github (BackEnd): https://github.com/Just-A-Recipe/Just-A-Recipe-Back-End
-- [Video Presentation](https://zoom.us/rec/share/veZ1C4r71mJLQ7Piwx_VUJYZRdXgX6a8hnVN-PJenk6RcJT09Kq1SkKlNGGi-zox?startTime=1590788532000) (Password: 7O?Vi0*.):
+- Live Site: https://songs-about-humanity.netlify.app
+- Github: https://github.com/songs-about-humanity
+- [Video Presentation]: Coming soon!
 
 If you have questions about the program or want to talk about hiring one of our grads, please connect with Shannon Rasimas at shannon@alchemycodelab.com!
