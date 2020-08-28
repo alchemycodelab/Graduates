@@ -14,17 +14,17 @@ DropZone allows users to get straight to the action of earning in game rewards b
 
 - Live Site: https://hardcore-mirzakhani-c9f87b.netlify.app/ 
 - Github (Front End): https://github.com/DropTopIncorporated/DropZoneFE/tree/master
-- - Github (Back End): https://github.com/DropTopIncorporated/DropZoneBE/tree/master
+- Github (Back End): https://github.com/DropTopIncorporated/DropZoneBE/tree/master
 - [Video Presentation]: Coming soon!
 
-## PDX Secret Menu :: [Jenna Goldman](http://jennagoldman.com/), [Hannah Riley](https://www.linkedin.com/in/hannah-m-riley/), [Josh Ford](https://www.linkedin.com/in/thisisjoshford/), & [Chris Ficht](https://www.linkedin.com/in/chrisficht/)
+## FloraFile :: [Breeann Bolinsky](https://www.linkedin.com/in/breeannbolinsky/), [Briseida Pagador](https://briseida-pagador.com/), [Rachel Donahue](https://www.linkedin.com/in/rachelmdonahue/), [Nikki Kiga](https://www.linkedin.com/in/nikkikiga), & [Langston Beckwitha](https://www.linkedin.com/in/langston-beckwith-stanley/)
 
-PDX Secret Menu is here to help both hungry Portland foodies and restaurant owners during these strange times! As local restaurants are currently unable to open for dine-in service, many owners are re-evaluating their business models and beginning to offer new formats of take-out options. PDX Secret Menu allows restaurants to sign up and register their businesses, populate current offerings, and create polls to find out what foodies are interested in seeing from them in the future. Foodies are also able to sign up, vote on polls, and purchase live offerings for scheduled pickup from their favorite restaurants.
-Tech used: React with Redux, Node.js, MongoDB, Express, integrations with Google Maps and Stripe.
+It’s a pocket garden application that allows plant newbies and botanists alike to search for plants based on their common or scientific names and get details about the plant as well as a gallery of images for identifying the plant.
 
- - Live Site: https://secretmenu.netlify.com/
-- Github: https://github.com/Secret-Menu
-- [Video Presentation](https://zoom.us/rec/share/veZ1C4r71mJLQ7Piwx_VUJYZRdXgX6a8hnVN-PJenk6RcJT09Kq1SkKlNGGi-zox?startTime=1590786477000) (Password: 7O?Vi0*.):
+- Live Site: https://florafile.netlify.app 
+- Github (Front End): https://github.com/GOATDreamTeam/frontend
+- Github (Back End): https://github.com/GOATDreamTeam/backend 
+- [Video Presentation]: Coming soon!
   
 ## Alcherithm :: [Janelle Mellor](https://www.linkedin.com/in/janellemellor/), [Dannie Schumaker](https://www.linkedin.com/in/dannieschumaker/), [Dakota Druley](https://www.linkedin.com/in/dakota-druley/), [Will Piro](https://www.linkedin.com/in/willpiro/), & [Mikey Romay](https://www.linkedin.com/in/michaelromay/)
 
