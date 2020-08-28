@@ -17,9 +17,9 @@ DropZone allows users to get straight to the action of earning in game rewards b
 - Github (Back End): https://github.com/DropTopIncorporated/DropZoneBE/tree/master
 - [Video Presentation]: Coming soon!
 
-## FloraFile :: [Breeann Bolinsky](https://www.linkedin.com/in/breeannbolinsky/), [Briseida Pagador](https://briseida-pagador.com/), [Rachel Donahue](https://www.linkedin.com/in/rachelmdonahue/), [Nikki Kiga](https://www.linkedin.com/in/nikkikiga), & [Langston Beckwitha](https://www.linkedin.com/in/langston-beckwith-stanley/)
+## FloraFile :: [Breeann Bolinsky](https://www.linkedin.com/in/breeannbolinsky/), [Briseida Pagador](https://briseida-pagador.com/), [Rachel Donahue](https://www.linkedin.com/in/rachelmdonahue/), [Nikki Kiga](https://www.linkedin.com/in/nikkikiga), & [Langston Beckwith-Stanley](https://www.linkedin.com/in/langston-beckwith-stanley/)
 
-It’s a pocket garden application that allows plant newbies and botanists alike to search for plants based on their common or scientific names and get details about the plant as well as a gallery of images for identifying the plant.
+FloraFile is a pocket garden application that allows plant newbies and botanists alike to search for plants based on their common or scientific names and get details about the plant as well as a gallery of images for identifying the plant.
 
 - Live Site: https://florafile.netlify.app 
 - Github (Front End): https://github.com/GOATDreamTeam/frontend
