@@ -14,7 +14,7 @@ Songs About Humanity allows players to join rooms and compete to give the best s
 
 - Live Site: https://songs-about-humanity.netlify.app
 - Github: https://github.com/songs-about-humanity
-- [Video Presentation]: Coming soon!
+- [Video Presentation]: (https://zoom.us/rec/share/vNQyc5qz2khJcqvExkbNVaEeJ6qiaaa82iEWrKBZyEqbAM-Eu2yiHC08hGLjkHad?startTime=1598653839000)
 
 ## DropZone :: [Erik Ford](https://www.linkedin.com/in/erik-ford-business/), [Dan Bennington](https://www.linkedin.com/in/dan-bennington/), [Jake Pendergraft](https://www.linkedin.com/in/jake-pendergraft/), [Lucia Brammer](https://lucia-brammer.com/), & [Max Lamb](https://www.linkedin.com/in/max-lamb/)
   
@@ -23,7 +23,7 @@ DropZone allows users to get straight to the action of earning in game rewards b
 - Live Site: https://thedropzone.netlify.app/
 - Github (Front End): https://github.com/DropTopIncorporated/DropZoneFE/tree/master
 - Github (Back End): https://github.com/DropTopIncorporated/DropZoneBE/tree/master
-- [Video Presentation]: Coming soon!
+- [Video Presentation] (https://zoom.us/rec/share/vNQyc5qz2khJcqvExkbNVaEeJ6qiaaa82iEWrKBZyEqbAM-Eu2yiHC08hGLjkHad?startTime=1598648854000)
 
 ## FloraFile :: [Breeann Bolinsky](https://www.linkedin.com/in/breeannbolinsky/), [Briseida Pagador](https://briseida-pagador.com/), [Rachel Donahue](https://www.linkedin.com/in/rachelmdonahue/), [Nikki Kiga](https://www.linkedin.com/in/nikkikiga), & [Langston Beckwith-Stanley](https://www.linkedin.com/in/langston-beckwith-stanley/)
 
@@ -32,7 +32,6 @@ FloraFile is a pocket garden application that allows plant newbies and botanists
 - Live Site: https://florafile.netlify.app 
 - Github (Front End): https://github.com/GOATDreamTeam/frontend
 - Github (Back End): https://github.com/GOATDreamTeam/backend 
-- [Video Presentation]: Coming soon!
   
 
 If you have questions about the program or want to talk about hiring one of our grads, please connect with Shannon Rasimas at shannon@alchemycodelab.com!
