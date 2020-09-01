@@ -8,6 +8,14 @@ Our emphasis on process, regular testing and immersive lab sessions allow our gr
 
 ## Below is an overview of the apps presented and links to their sites and video of their presentations. Links to the LinkedIn profile each student is also included.
 
+## Songs About Humanity :: [Melissa Smoot](https://smoot.dog/), [Jaime Sanders](https://www.linkedin.com/in/jaimelyn/), [Hunter Danielson](https://hdanielson.com/), & [Joey Leaptrott](https://www.linkedin.com/in/joey-leaptrott/) 
+
+Songs About Humanity allows players to join rooms and compete to give the best song recommendations when given a prompt (similar to Apples to Apples or Cards Against Humanity) in real-time. Front-end was built with React, Redux, and Socket.io, back-end with Node and Socket.io, with music playing and searching done via the Spotify API and Spotify web playback SDK.
+
+- Live Site: https://songs-about-humanity.netlify.app
+- Github: https://github.com/songs-about-humanity
+- [Video Presentation]: Coming soon!
+
 ## DropZone :: [Erik Ford](https://www.linkedin.com/in/erik-ford-business/), [Dan Bennington](https://www.linkedin.com/in/dan-bennington/), [Jake Pendergraft](https://www.linkedin.com/in/jake-pendergraft/), [Lucia Brammer](https://lucia-brammer.com/), & [Max Lamb](https://www.linkedin.com/in/max-lamb/)
   
 DropZone allows users to get straight to the action of earning in game rewards by watching their favorite streamers live on Twitch. Cut through the hassle of having to search through hundreds of games and thousands of streamers and get straight to earning drops!
@@ -26,12 +34,5 @@ FloraFile is a pocket garden application that allows plant newbies and botanists
 - Github (Back End): https://github.com/GOATDreamTeam/backend 
 - [Video Presentation]: Coming soon!
   
-## Songs About Humanity :: [Melissa Smoot](https://smoot.dog/), [Jaime Sanders](https://www.linkedin.com/in/jaimelyn/), [Hunter Danielson](https://hdanielson.com/), & [Joey Leaptrott](https://www.linkedin.com/in/joey-leaptrott/) 
-
-Songs About Humanity allows players to join rooms and compete to give the best song recommendations when given a prompt, similar to Apples to Apples or Cards Against Humanity), in real-time. Front-end was built with React, Redux, and Socket.io, back-end with Node and Socket.io, with music playing and searching done via the Spotify API and Spotify web playback SDK.
-
-- Live Site: https://songs-about-humanity.netlify.app
-- Github: https://github.com/songs-about-humanity
-- [Video Presentation]: Coming soon!
 
 If you have questions about the program or want to talk about hiring one of our grads, please connect with Shannon Rasimas at shannon@alchemycodelab.com!
