@@ -14,7 +14,7 @@ Songs About Humanity allows players to join rooms and compete to give the best s
 
 - Live Site: https://songs-about-humanity.netlify.app
 - Github: https://github.com/songs-about-humanity
-- [Video Presentation](https://zoom.us/rec/share/vNQyc5qz2khJcqvExkbNVaEeJ6qiaaa82iEWrKBZyEqbAM-Eu2yiHC08hGLjkHad?startTime=1598653839000)
+- [Video Presentation](Coming Soon!)
 
 ## Spot That Tune :: [Edgar Cuellar](https://www.linkedin.com/in/edgarpdx/), [Shawn Carpenter](https://www.linkedin.com/in/shawn-carpenter/), & [Ron Yonker](https://www.linkedin.com/in/ron-yonker/)
   
@@ -32,14 +32,16 @@ FloraFile is a pocket garden application that allows plant newbies and botanists
 - Live Site: https://florafile.netlify.app 
 - Github (Front End): https://github.com/GOATDreamTeam/frontend
 - Github (Back End): https://github.com/GOATDreamTeam/backend 
+- [Video Presentation](Coming Soon!)
 
-## mood music :: [Breeann Bolinsky](https://www.linkedin.com/in/breeannbolinsky/), [Briseida Pagador](https://briseida-pagador.com/), [Rachel Donahue](https://www.linkedin.com/in/rachelmdonahue/), [Nikki Kiga](https://www.linkedin.com/in/nikkikiga), & [Langston Beckwith-Stanley](https://www.linkedin.com/in/langston-beckwith-stanley/)
+## Mood Music :: [Jerud Moyer](https://www.linkedin.com/in/jerud-moyer/), [Brian McPhillips](https://www.linkedin.com/in/brianmcphillips/), [Annalise Murphy](https://www.linkedin.com/in/annalise-murphy/), & [Nathan Kruckenberg](https://www.linkedin.com/in/natekruck)
 
-FloraFile is a pocket garden application that allows plant newbies and botanists alike to search for plants based on their common or scientific names and get details about the plant as well as a gallery of images for identifying the plant.
+Mood music makes the perfect recommendation depending on your current mood! Mood music curates a playlist to the users set mood based off of a webcam image which is taken in real time.
 
-- Live Site: https://florafile.netlify.app 
-- Github (Front End): https://github.com/GOATDreamTeam/frontend
-- Github (Back End): https://github.com/GOATDreamTeam/backend 
+- Live Site: https://mood-music.netlify.app
+- Github (Front End): https://github.com/Silver-Surfers/Mood-Music-Fe
+- Github (Back End): https://github.com/Silver-Surfers/Mood-Music-be
+- [Video Presentation](Coming Soon!)
 
 ## canary :: [Breeann Bolinsky](https://www.linkedin.com/in/breeannbolinsky/), [Briseida Pagador](https://briseida-pagador.com/), [Rachel Donahue](https://www.linkedin.com/in/rachelmdonahue/), [Nikki Kiga](https://www.linkedin.com/in/nikkikiga), & [Langston Beckwith-Stanley](https://www.linkedin.com/in/langston-beckwith-stanley/)
 
@@ -48,6 +50,7 @@ FloraFile is a pocket garden application that allows plant newbies and botanists
 - Live Site: https://florafile.netlify.app 
 - Github (Front End): https://github.com/GOATDreamTeam/frontend
 - Github (Back End): https://github.com/GOATDreamTeam/backend 
+- [Video Presentation](Coming Soon!)
   
 
 If you have questions about the program or want to talk about hiring one of our grads, please connect with Shannon Rasimas at shannon@alchemycodelab.com!
