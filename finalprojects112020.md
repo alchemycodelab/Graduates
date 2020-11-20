@@ -8,15 +8,16 @@ Our emphasis on process, regular testing and immersive lab sessions allow our gr
 
 ## Below is an overview of the apps presented and links to their sites and video of their presentations. Links to the LinkedIn profile each student is also included.
 
-## IAMA :: [Melissa Smoot](https://smoot.dog/), [Jaime Sanders](https://www.linkedin.com/in/jaimelyn/), [Hunter Danielson](https://hdanielson.com/), & [Joey Leaptrott](https://www.linkedin.com/in/joey-leaptrott/) 
+## AMAzine :: [Sarah Rector](www.linkedin.com/in/sarah-rector/), [Michelle Stermitz](https://www.linkedin.com/in/michellestermitz/), [Patrick Wilson](https://www.linkedin.com/in/pmwilson333/) & [Josh Olloqui](https://www.linkedin.com/in/josholloqui/) 
 
-Songs About Humanity allows players to join rooms and compete to give the best song recommendations when given a prompt (similar to Apples to Apples or Cards Against Humanity) in real-time. Front-end was built with React, Redux, and Socket.io, back-end with Node and Socket.io, with music playing and searching done via the Spotify API and Spotify web playback SDK.
+AMAzine is a web-magazine that scrapes interviews from Reddit's "Ask Me Anything" subreddit as well as recipes and photos of the day from National Geographic. It was built with Python, Node and PostgreSQL on the back end and React on the front end.
 
-- Live Site: https://songs-about-humanity.netlify.app
-- Github: https://github.com/songs-about-humanity
+- Live Site: https://amazine.netlify.app
+- Github (Front End): https://github.com/AMA-Zine/amazine-fe
+- Github (Back End): https://github.com/AMA-Zine/amazine-be
 - [Video Presentation](Coming Soon!)
 
-## Spot That Tune :: [Edgar Cuellar](https://www.linkedin.com/in/edgarpdx/), [Shawn Carpenter](https://www.linkedin.com/in/shawn-carpenter/), & [Ron Yonker](https://www.linkedin.com/in/ron-yonker/)
+## Spot That Tune :: [Edgar Cuellar](https://www.linkedin.com/in/edgarpdx/), [Shawn Carpenter](https://www.linkedin.com/in/shawn-carpenter/) & [Ron Yonker](https://www.linkedin.com/in/ron-yonker/)
   
 SPOT THAT TUNE is a full stack application that that has users test their friends song knowledge in a guess that song type game.
 The application was built using React, Redux, Spotify Web API and Socket IO.
@@ -25,16 +26,15 @@ The application was built using React, Redux, Spotify Web API and Socket IO.
 - Github: https://github.com/SpotThatTune
 - [Video Presentation](Coming Soon!)
 
-## NoShelfControl :: [Breeann Bolinsky](https://www.linkedin.com/in/breeannbolinsky/), [Briseida Pagador](https://briseida-pagador.com/), [Rachel Donahue](https://www.linkedin.com/in/rachelmdonahue/), [Nikki Kiga](https://www.linkedin.com/in/nikkikiga), & [Langston Beckwith-Stanley](https://www.linkedin.com/in/langston-beckwith-stanley/)
+## PageTrade :: [Brooke Perkins](https://www.linkedin.com/in/brookeperkins/), [Charlie Smith](https://www.linkedin.com/in/charlie-smith-b7840b1a5/), [Heather Peterson](https://www.linkedin.com/in/hpeterson462/) & [Ryan Diffenbaugh](https://www.linkedin.com/in/ryan-diff/)
 
-FloraFile is a pocket garden application that allows plant newbies and botanists alike to search for plants based on their common or scientific names and get details about the plant as well as a gallery of images for identifying the plant.
+PageTrade is a book trading site that allows users to search and exchange books in small communities during the Covid lockdown.
 
-- Live Site: https://florafile.netlify.app 
-- Github (Front End): https://github.com/GOATDreamTeam/frontend
-- Github (Back End): https://github.com/GOATDreamTeam/backend 
+- Live Site: https://page-trade.netlify.app/signup
+- Github:  https://github.com/NoShelfControl 
 - [Video Presentation](Coming Soon!)
 
-## Mood Music :: [Jerud Moyer](https://www.linkedin.com/in/jerud-moyer/), [Brian McPhillips](https://www.linkedin.com/in/brianmcphillips/), [Annalise Murphy](https://www.linkedin.com/in/annalise-murphy/), & [Nathan Kruckenberg](https://www.linkedin.com/in/natekruck)
+## Mood Music :: [Jerud Moyer](https://www.linkedin.com/in/jerud-moyer/), [Brian McPhillips](https://www.linkedin.com/in/brianmcphillips/), [Annalise Murphy](https://www.linkedin.com/in/annalise-murphy/) & [Nathan Kruckenberg](https://www.linkedin.com/in/natekruck)
 
 Mood music makes the perfect recommendation depending on your current mood! Mood music curates a playlist to the users set mood based off of a webcam image which is taken in real time.
 
@@ -43,7 +43,7 @@ Mood music makes the perfect recommendation depending on your current mood! Mood
 - Github (Back End): https://github.com/Silver-Surfers/Mood-Music-be
 - [Video Presentation](Coming Soon!)
 
-## canary :: [Breeann Bolinsky](https://www.linkedin.com/in/breeannbolinsky/), [Briseida Pagador](https://briseida-pagador.com/), [Rachel Donahue](https://www.linkedin.com/in/rachelmdonahue/), [Nikki Kiga](https://www.linkedin.com/in/nikkikiga), & [Langston Beckwith-Stanley](https://www.linkedin.com/in/langston-beckwith-stanley/)
+## canary :: [Breeann Bolinsky](https://www.linkedin.com/in/breeannbolinsky/), [Briseida Pagador](https://briseida-pagador.com/), [Rachel Donahue](https://www.linkedin.com/in/rachelmdonahue/), [Nikki Kiga](https://www.linkedin.com/in/nikkikiga) & [Langston Beckwith-Stanley](https://www.linkedin.com/in/langston-beckwith-stanley/)
 
 FloraFile is a pocket garden application that allows plant newbies and botanists alike to search for plants based on their common or scientific names and get details about the plant as well as a gallery of images for identifying the plant.
 
