@@ -43,13 +43,12 @@ Mood music makes the perfect recommendation depending on your current mood! Mood
 - Github (Back End): https://github.com/Silver-Surfers/Mood-Music-be
 - [Video Presentation](Coming Soon!)
 
-## canary :: [Breeann Bolinsky](https://www.linkedin.com/in/breeannbolinsky/), [Briseida Pagador](https://briseida-pagador.com/), [Rachel Donahue](https://www.linkedin.com/in/rachelmdonahue/), [Nikki Kiga](https://www.linkedin.com/in/nikkikiga) & [Langston Beckwith-Stanley](https://www.linkedin.com/in/langston-beckwith-stanley/)
+## Canary :: [Thomas Stussi](www.linkedin.com/in/thomas-stussi/), [Katie Perry](https://www.linkedin.com/in/katiepdx/), [Ben Waples](https://benwaples.dev/) & [Greg Mall](https://www.linkedin.com/in/greg-mall-3032771b1/)
 
-FloraFile is a pocket garden application that allows plant newbies and botanists alike to search for plants based on their common or scientific names and get details about the plant as well as a gallery of images for identifying the plant.
+Canary is a learning platform that engages students in the learning process through movement. Teachers on the platform can pose questions to the classroom and students can select their answers simply through their gestures, which are trained through a machine learning package called TensorFlow. We use Socket.io to transmit questions, answers, and chat messages between clients to enhance the classroom environment. The site is rendered with React and complex state management is handled with Redux.
 
-- Live Site: https://florafile.netlify.app 
-- Github (Front End): https://github.com/GOATDreamTeam/frontend
-- Github (Back End): https://github.com/GOATDreamTeam/backend 
+- Live Site: https://thecanary.netlify.app/
+- Github: https://github.com/The-Canary-Project 
 - [Video Presentation](Coming Soon!)
   
 
