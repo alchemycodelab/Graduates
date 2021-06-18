@@ -23,24 +23,6 @@ ___
 >| Josie Cantu |  [Github](https://github.com/JosieMCantu)  |  [LinkedIn](www.linkedin.com/in/josiemcantu/)  |
 ___
 ___
-### BeatWavez
-
-> Description 
->>A Jackbox-style karaoke party app that allows users to create and join party rooms, manage a queue, chat with each other, and (most importantly) sing along to lyrics videos pulled via the YouTube API. This app was built mobile-first with React and Express, utilizing socket.io and material UI.
-
-* [Repo](https://beatwavez.com)
-
-* [Deployed Site](https://github.com/the-treblemakers)
-
->| Team Members  | Github  | LinkedIn  |
->|---|---|---|
->| Soraya Benson |  [Github](https://github.com/sorayabenson)  |  [LinkedIn](https://www.linkedin.com/in/soraya-benson/)  |
->| Brandon Perard |  [Github](https://github.com/bperard)  |  [LinkedIn](https://www.linkedin.com/in/brandonperard/)  |
->| Lori Winston | [Github](https://github.com/LoriWinston)   | [LinkedIn](https://www.linkedin.com/in/loriwinston/)   |
->| Nicole Martin |  [Github](https://github.com/nicole-m-martin)  |  [LinkedIn](https://www.linkedin.com/in/nicolemartinpdx/)  |
->| Katy Boyles |  [Github](https://github.com/katrinkajb)  |  [LinkedIn](https://www.linkedin.com/in/katy-boyles/)  |
-___
-___
 ### Greeting Art
 
 > Description 
@@ -57,25 +39,22 @@ ___
 >| Stephen Tamiesie | [Github](https://github.com/stamiesie)   | [LinkedIn](https://www.linkedin.com/in/stephen-tamiesie/)   |
 ___
 ___
-### Socket Jockey
+### BeatWavez
 
 > Description 
->>Collaboratively composing music with the collision of time, space, and socket.io. Built with React, matter.js, tone.js, p5*js, and Material UI,
+>>A Jackbox-style karaoke party app that allows users to create and join party rooms, manage a queue, chat with each other, and (most importantly) sing along to lyrics videos pulled via the YouTube API. This app was built mobile-first with React and Express, utilizing socket.io and material UI.
 
-* [Repo](https://github.com/socket-jockey)
+* [Repo](https://beatwavez.com)
 
-* [Deployed Site](https://socketjockey.netlify.app)
+* [Deployed Site](https://github.com/the-treblemakers)
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
->| Kat Sauma | [Github](https://github.com/kat-sauma)  | [LinkedIn](https://www.linkedin.com/in/kat-sauma/)   |
->| Jake Thrasher |  [Github](https://github.com/jakethrasher)  |  [LinkedIn](https://www.linkedin.com/in/m-jake-thrasher/)  |
->| Patrick Hrabos |  [Github](https://github.com/phrabos)  |  [LinkedIn](https://www.linkedin.com/in/patrick-hrabos/)  |
->| [Erich Sauer](http://cargocollective.com/erichsauer) | [Github](https://github.com/erichsauer)   | [LinkedIn](https://www.linkedin.com/in/erichsauer/)   |
->| Tyler Farris |  [Github](https://github.com/Tylerpfarris)  |  [LinkedIn](https://www.linkedin.com/in/tyler-p-farris/)  |
->| Dylan White |  [Github](https://github.com/glass-waves)  |  [LinkedIn](https://www.linkedin.com/in/dylan-j-white/)  |
->| Stephen leisy |  [Github](https://github.com/stephen-leisy)  |  [LinkedIn](https://www.linkedin.com/in/stephen-leisy/)  |
->| Anthony Rosario |  [Github](https://github.com/Anthony-Rosario)  |  [LinkedIn](https://www.linkedin.com/in/anthony-rosario/)  |
+>| Soraya Benson |  [Github](https://github.com/sorayabenson)  |  [LinkedIn](https://www.linkedin.com/in/soraya-benson/)  |
+>| Brandon Perard |  [Github](https://github.com/bperard)  |  [LinkedIn](https://www.linkedin.com/in/brandonperard/)  |
+>| Lori Winston | [Github](https://github.com/LoriWinston)   | [LinkedIn](https://www.linkedin.com/in/loriwinston/)   |
+>| Nicole Martin |  [Github](https://github.com/nicole-m-martin)  |  [LinkedIn](https://www.linkedin.com/in/nicolemartinpdx/)  |
+>| Katy Boyles |  [Github](https://github.com/katrinkajb)  |  [LinkedIn](https://www.linkedin.com/in/katy-boyles/)  |
 ___
 ___
 ### IdleIsle
@@ -102,7 +81,7 @@ ___
 
 * [Repo](https://github.com/GIM-LLC)
 
-* [Deployed Site](https://www.escapegim.com/)
+* [Deployed Site]()
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
@@ -120,13 +99,35 @@ ___
 
 * [Repo](https://github.com/ACL-JobsTeam)
 
-* [Deployed Site](https://aspir-io.netlify.app/)
+* [Deployed Site]()
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
 >| Colin Bassett |  [Github](https://github.com/ccbass)  |  [LinkedIn](https://www.linkedin.com/in/colin-bassett/)  |
 >| Taylor Reichner |  [Github](https://github.com/taylorreichner)  |  [LinkedIn](https://www.linkedin.com/in/taylor-reichner-stickel/)  |
 >| Victor Williams |  [Github](https://github.com/classalto)  |  [LinkedIn](https://www.linkedin.com/in/victor-b-williams/)  |
+___
+___
+### Socket Jockey
+
+> Description 
+>>Collaboratively composing music with the collision of time, space, and socket.io. Built with React, matter.js, tone.js, p5*js, and Material UI,
+
+* [Repo](https://github.com/socket-jockey)
+
+* [Deployed Site](https://socketjockey.netlify.app)
+
+>| Team Members  | Github  | LinkedIn  |
+>|---|---|---|
+>| Kat Sauma | [Github](https://github.com/kat-sauma)  | [LinkedIn](https://www.linkedin.com/in/kat-sauma/)   |
+>| Jake Thrasher |  [Github](https://github.com/jakethrasher)  |  [LinkedIn](https://www.linkedin.com/in/m-jake-thrasher/)  |
+>| Patrick Hrabos |  [Github](https://github.com/phrabos)  |  [LinkedIn](https://www.linkedin.com/in/patrick-hrabos/)  |
+>| [Erich Sauer](http://cargocollective.com/erichsauer) | [Github](https://github.com/erichsauer)   | [LinkedIn](https://www.linkedin.com/in/erichsauer/)   |
+>| Tyler Farris |  [Github](https://github.com/Tylerpfarris)  |  [LinkedIn](https://www.linkedin.com/in/tyler-p-farris/)  |
+>| Dylan White |  [Github](https://github.com/glass-waves)  |  [LinkedIn](https://www.linkedin.com/in/dylan-j-white/)  |
+>| Stephen leisy |  [Github](https://github.com/stephen-leisy)  |  [LinkedIn](https://www.linkedin.com/in/stephen-leisy/)  |
+>| Anthony Rosario |  [Github](https://github.com/Anthony-Rosario)  |  [LinkedIn](https://www.linkedin.com/in/anthony-rosario/)  |
+___
 ___
 
 ### Graduate who didn't present because he secured a role before projects began:
