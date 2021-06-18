@@ -95,8 +95,8 @@ Built using React.js and socket.io for multiplayer interactivity.
 >| [Julianne Vela](https://juliannevela.dev/) | [Github](https://github.com/juliannevela)   | [LinkedIn](https://www.linkedin.com/in/juliannevela/)   |
 >| [Devon Wolfkiel](https://devon-wolf.github.io/portfolio/) |  [Github](https://github.com/devon-wolf)  |  [LinkedIn](https://www.linkedin.com/in/devon-wolfkiel/)  |
 >| Katrina Cloyd | [Github](https://github.com/KatrinaCloyd?tab=repositories)   | [LinkedIn](https://www.linkedin.com/in/katrinacloyd/)   |
->| Cammeron Zimmerman |  [Github]()  |  [LinkedIn]()  |
->| Casey Warren |  [Github]()  |  [LinkedIn]()  |
+>| Cammeron Zimmerman |  [Github](https://github.com/CameronZimmerman)  |  [LinkedIn](https://www.linkedin.com/in/cameron-zimmerman/)  |
+>| Casey Warren |  [Github](https://github.com/caseywar)  |  [LinkedIn](https://www.linkedin.com/in/casey-maynah-warren/)  |
 ___
 ___
 ### Aspir.io
