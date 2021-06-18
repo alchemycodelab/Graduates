@@ -43,7 +43,7 @@ ___
 >| Lori Winston | [Github](https://github.com/LoriWinston)   | [LinkedIn](https://www.linkedin.com/in/loriwinston/)   |
 >| Nicole Martin |  [Github]()  |  [LinkedIn]()  |
 >| Katy Boyles |  [Github](https://github.com/katrinkajb)  |  [LinkedIn](https://www.linkedin.com/in/katy-boyles/)  |
->| Sam Gerber | [Github]()   | [LinkedIn]()   |
+
 >| Cammeron Zimmerman |  [Github]()  |  [LinkedIn]()  |
 >
 ___
@@ -52,25 +52,28 @@ ___
 
 > Description 
 >>
-* [Repo](greeting-art.netlify.app/)
+* [Repo](https://github.com/Greeting-Art)
 
-* [Deployed Site](https://github.com/Greeting-Art)
+* [Deployed Site](http://greeting-art.netlify.app/)
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
+>| Eion Nelson |  [Github]()  |  [LinkedIn]()  |
+>| Parker Sequeira | [Github](https://github.com/phsequeira)   | [LinkedIn](https://www.linkedin.com/in/parker-sequeira-b0a96886/)   |
+>| Sam Gerber | [Github]()   | [LinkedIn]()   |
+>| Stephen Tamiesie | [Github](https://github.com/stamiesie)   | [LinkedIn](https://www.linkedin.com/in/stephen-tamiesie/)   |
 
-
->| Moises Depena |  [Github]()  |  [LinkedIn]()  |
 >| Edmond Zhan |  [Github](https://github.com/zhaned)  |  [LinkedIn](https://www.linkedin.com/in/edmondzhan/)  |
 ___
 ___
-### Afyaa
+### Socket Jockey
 
 > Description 
->>
-* [Repo](https://github.com/mood-app/mood-app)
+>>Collaboratively composing music with the collision of time, space, and socket.io. Built with React, matter.js, tone.js, p5*js, and Material UI,
 
-* [Deployed Site](mood-app.github.io/mood-app/)
+* [Repo](https://github.com/socket-jockey)
+
+* [Deployed Site](https://socketjockey.netlify.app)
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
@@ -113,9 +116,9 @@ ___
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
->| Parker Sequeira | [Github](https://github.com/phsequeira)   | [LinkedIn](https://www.linkedin.com/in/parker-sequeira-b0a96886/)   |
+
 >| Taylor Reichner |  [Github](https://github.com/taylorreichner)  |  [LinkedIn](https://www.linkedin.com/in/taylor-reichner-stickel/)  |
->| Eion Nelson |  [Github]()  |  [LinkedIn]()  |
+
 >| Victor Williams |  [Github]()  |  [LinkedIn]()  |
 ___
 ___
@@ -129,7 +132,7 @@ ___
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
->| Stephen Tamiesie | [Github](https://github.com/stamiesie)   | [LinkedIn](https://www.linkedin.com/in/stephen-tamiesie/)   |
+>
 
 
 >| Stephen leisy |  [Github]()  |  [LinkedIn]()  |
