@@ -37,7 +37,7 @@ ___
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
->| Eion Nelson |  [Github](https://github.com/ecnelson1?tab=repositories)  |  [LinkedIn](https://www.linkedin.com/in/eionnelson/)  |
+>| Eion Nelson |  [Github](https://github.com/ecnelson1)  |  [LinkedIn](https://www.linkedin.com/in/eionnelson/)  |
 >| Parker Sequeira | [Github](https://github.com/phsequeira)   | [LinkedIn](https://www.linkedin.com/in/parker-sequeira-b0a96886/)   |
 >| Sam Gerber | [Github](https://github.com/sgerpdx)   | [LinkedIn](https://www.linkedin.com/in/sam-h-gerber/)   |
 >| Stephen Tamiesie | [Github](https://github.com/stamiesie)   | [LinkedIn](https://www.linkedin.com/in/stephen-tamiesie/)   |
@@ -81,7 +81,8 @@ ___
 ### GIM LLC.
 
 > Description 
->>"_One day, while cleaning the server trays, a kind young soul was thrust into a strange fate.. Their soul now lives within the server and needs your help to be set free..._GIM LLC is an escape room inspired website where players work together to find clues to free the ghost! Built using React.js and socket.io for multiplayer interactivity. "
+>>_One day, while cleaning the server trays, a kind young soul was thrust into a strange fate.. Their soul now lives within the server and needs your help to be set free..._
+
 
 * [Repo](https://github.com/GIM-LLC)
 
@@ -89,7 +90,7 @@ ___
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
->| Julianne Vela | [Github](https://github.com/julianne-vela)   | [LinkedIn](https://www.linkedin.com/in/juliannevela/)   |
+>| [Julianne Vela](https://juliannevela.dev/) | [Github](https://github.com/juliannevela)   | [LinkedIn](https://www.linkedin.com/in/juliannevela/)   |
 >| [Devon Wolfkiel](https://devon-wolf.github.io/portfolio/) |  [Github](https://github.com/devon-wolf)  |  [LinkedIn](https://www.linkedin.com/in/devon-wolfkiel/)  |
 >| Katrina Cloyd | [Github](https://github.com/KatrinaCloyd?tab=repositories)   | [LinkedIn](https://www.linkedin.com/in/katrinacloyd/)   |
 >| Cammeron Zimmerman |  [Github]()  |  [LinkedIn]()  |
