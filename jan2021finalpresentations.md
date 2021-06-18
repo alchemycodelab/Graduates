@@ -88,7 +88,7 @@ Built using React.js and socket.io for multiplayer interactivity.
 
 * [Repo](https://github.com/GIM-LLC)
 
-* [Deployed Site]()
+* [Deployed Site](https://www.escapegim.com/)
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
