@@ -27,25 +27,25 @@ ___
 >| Anthony Rosario |  [Github]()  |  [LinkedIn]()  |
 ___
 ___
-### Designasaur Park
+### BeatWavez
 
 > Description 
->>Designasaur is a dino creation simulator a la Jurassic Park. Craft your custom dino using various genetic materials on hand. Your dino will be incubated, and hatch. There you will decide it's species name. From there you can release your dino onto Isla FooBar and watch them interact and move about the Island.
-Our purpose
-Everyone wants to live out their dreams of being a dino crazed mad scientist and Designasaur can give you that experience. This application is for your enjoyment and entertainment. Please enjoy!
+>>A Jackbox-style karaoke party app that allows users to create and join party rooms, manage a queue, chat with each other, and (most importantly) sing along to lyrics videos pulled via the YouTube API. This app was built mobile-first with React and Express, utilizing socket.io and material UI.
 
-The stack
-This project was made with only vanilla JS, CSS, and HTML - no additional libraries and frameworks are needed!
+* [Repo](https://beatwavez.com)
 
-* [Repo](https://github.com/DesignosaurPark/DesignosaurPark)
-
-* [Deployed Site](https://designosaurpark.github.io/DesignosaurPark/)
+* [Deployed Site](https://github.com/the-treblemakers)
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
+>| Soraya Benson |  [Github]()  |  [LinkedIn]()  |
+>| Brandon Perard |  [Github]()  |  [LinkedIn]()  |
+>| Lori Winston | [Github](https://github.com/LoriWinston)   | [LinkedIn](https://www.linkedin.com/in/loriwinston/)   |
+>| Nicole Martin |  [Github]()  |  [LinkedIn]()  |
+>| Katy Boyles |  [Github](https://github.com/katrinkajb)  |  [LinkedIn](https://www.linkedin.com/in/katy-boyles/)  |
 >| Sam Gerber | [Github]()   | [LinkedIn]()   |
 >| Cammeron Zimmerman |  [Github]()  |  [LinkedIn]()  |
->| Katy Boyles |  [Github](https://github.com/katrinkajb)  |  [LinkedIn](https://www.linkedin.com/in/katy-boyles/)  |
+>
 ___
 ___
 ### Budgetverse
@@ -76,7 +76,7 @@ ___
 >|---|---|---|
 >| Kat Sauma | [Github]()   | [LinkedIn]()   |
 
->| Lori Winston | [Github](https://github.com/LoriWinston)   | [LinkedIn](https://www.linkedin.com/in/loriwinston/)   |
+>
 ___
 ___
 ### Nutrizone
@@ -157,8 +157,7 @@ Win Sound: https://freesound.org/people/Fupicat/sounds/521642/
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
 >| Katrina Cloyd | [Github](https://github.com/KatrinaCloyd?tab=repositories)   | [LinkedIn](https://www.linkedin.com/in/katrinacloyd/)   |
->| Soraya Benson |  [Github]()  |  [LinkedIn]()  |
->| Brandon Perard |  [Github]()  |  [LinkedIn]()  |
+
 >| Casey Warren |  [Github]()  |  [LinkedIn]()  |
 ___
 ___
@@ -173,6 +172,6 @@ ___
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
 >| Erich Sauer | [Github](https://github.com/erichsauer)   | [LinkedIn](https://www.linkedin.com/in/erichsauer/)   |
->| Nicole Martin |  [Github]()  |  [LinkedIn]()  |
+>
 >| Tyler Farris |  [Github]()  |  [LinkedIn]()  |
 >| Dylan White |  [Github]()  |  [LinkedIn]()  |
