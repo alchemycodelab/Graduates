@@ -1,8 +1,12 @@
 # Alchemy JAN 2021 Cohort Final Presentations
 
-Fourth and final projects made in a 10-day sprint, from concept through delivery, after week 24 in the program. These students have just finished more than 800 hours of our professional software development training. They've learned how to harness FullStack JavaScript capabilities using React, Redux, Node, Express, and PostgreSQL, all while working on fully remote teams.
+Welcome to [Alchemy Code Lab](https://www.alchemycodelab.com)! 
 
-First one week sprint, from concept through delivery, after week 3 in the program.  Focus was vanilla JS, HTML and CSS, and teams built this working remotely.
+These students are finishing our professional software development training. They are the second group to start with us remotely, and have learned to code, collaborate and be incredible teammates working from their homes. Following you will find their Final Projects which harnesses the use of React, Redux, PostreSQL, NodeJS, and Express, which were learned in our program, and integrated Python, tenserflow and Socket.io as well. These projects were built in a one week sprint, remotely.
+
+Our emphasis on process, regular testing and immersive lab sessions allow our grads to understand how their coding works and why it does what it does. We continue to be an on-line and live training program taught by experienced senior software developers and through this, our grads are real contributors. We stay on top of the most used technologies and aim for our grads to evolve the economy and community through the companies they go to work for. [Here is an overview](https://docs.google.com/document/d/1RVKZ4wzOLJn5OeIE-94riRoJGLpwLRG1SuBdGY7sedg/edit?usp=sharing) of their syllabus through our Career Track training.  
+
+## Below is an overview of the apps presented and links to their sites and video of their presentations. Links to the LinkedIn profile or personal site of each student is also included.
 ___
 ### Angle On
 
@@ -132,3 +136,6 @@ ___
 
 ### Graduate who didn't present because he secured a role before projects began:
 >| Cherno Badjan |  [Github](https://github.com/Cherno-Badjan)  |  [LinkedIn](https://www.linkedin.com/in/chernobadjan/)  |
+
+If you have questions about the program or want to talk about hiring one of our grads, please connect with Shannon Rasimas at shannon@alchemycodelab.com!
+
