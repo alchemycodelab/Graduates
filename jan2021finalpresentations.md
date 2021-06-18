@@ -21,8 +21,6 @@ ___
 >| [Katilyn Wiggins](www.katilynwiggins.com) |  [Github](https://github.com/katilyn-wiggins)  |  [LinkedIn](https://www.linkedin.com/in/katilynwiggins)  |
 >| Shelby Strouse | [Github](https://github.com/sls1881)   | [LinkedIn](https://www.linkedin.com/in/shelby-strouse-full-stack-eng/)   |
 >| Josie Cantu |  [Github](https://github.com/JosieMCantu)  |  [LinkedIn](www.linkedin.com/in/josiemcantu/)  |
->| Julianne Vela | [Github](https://github.com/julianne-vela)   | [LinkedIn](https://www.linkedin.com/in/juliannevela/)   |
->| [Devon Wolfkiel](https://devon-wolf.github.io/portfolio/) |  [Github](https://github.com/devon-wolf)  |  [LinkedIn](https://www.linkedin.com/in/devon-wolfkiel/)  |
 ___
 ___
 ### BeatWavez
@@ -41,9 +39,6 @@ ___
 >| Lori Winston | [Github](https://github.com/LoriWinston)   | [LinkedIn](https://www.linkedin.com/in/loriwinston/)   |
 >| Nicole Martin |  [Github](https://github.com/nicole-m-martin)  |  [LinkedIn](https://www.linkedin.com/in/nicolemartinpdx/)  |
 >| Katy Boyles |  [Github](https://github.com/katrinkajb)  |  [LinkedIn](https://www.linkedin.com/in/katy-boyles/)  |
-
->| Cammeron Zimmerman |  [Github]()  |  [LinkedIn]()  |
->
 ___
 ___
 ### Greeting Art
@@ -100,78 +95,39 @@ ___
 >| Edmond Zhan |  [Github](https://github.com/zhaned)  |  [LinkedIn](https://www.linkedin.com/in/edmondzhan/)  |
 ___
 ___
-### Fantasy BasketBall
+### GIM LLC.
 
 > Description 
->>
-* [Repo](https://github.com/TeamRookieAlchemy/Basketball)
+>>"_One day, while cleaning the server trays, a kind young soul was thrust into a strange fate.. Their soul now lives within the server and needs your help to be set free..._GIM LLC is an escape room inspired website where players work together to find clues to free the ghost! Built using React.js and socket.io for multiplayer interactivity. "
 
-* [Deployed Site](https://teamrookiealchemy.github.io/Basketball/)
+* [Repo](https://github.com/GIM-LLC)
+
+* [Deployed Site](https://www.escapegim.com/)
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
-
->| Taylor Reichner |  [Github](https://github.com/taylorreichner)  |  [LinkedIn](https://www.linkedin.com/in/taylor-reichner-stickel/)  |
-
->| Victor Williams |  [Github](https://github.com/classalto)  |  [LinkedIn](https://www.linkedin.com/in/victor-b-williams/)  |
-___
-___
-### Ventana
-
-> Description 
->>
-* [Repo](https://github.com/Travel-Site-Alchemy/travel-site/tree/main)
-
-* [Deployed Site](https://travel-site-alchemy.github.io/travel-site/)
-
->| Team Members  | Github  | LinkedIn  |
->|---|---|---|
->
-
-
->| Stephen leisy |  [Github]()  |  [LinkedIn]()  |
-___
-___
-### Vampire Memory Match
-
-> Description 
->>Our project is a memory matching flip card game, themed after the movie/TV series 'What We Do In The Shadows'. Users are able to select one of three difficulty levels to play on, and track their best scores on the Score Board page. Our problem domain would be quarantine boredom.
-Sound Credits
-blood splatter image credit: https://www.pikpng.com/pngvi/iTbJib_blood-spatter-png-gunshot-blood-splatter-transparent-clipart/
-
-Sounds:
-
-Game Start Sound: https://www.zapsplat.com/music/designed-cinematic-impact-hit-dark-heavy-and-metallic-with-a-scary-vibe-1/
-Click Sound: https://www.zapsplat.com/music/multimedia-click-1/
-Match Sound: https://www.zapsplat.com/music/horror-hit-violin-stab-with-reverb-great-for-creating-shock-jump-scare-1/
-Reset Sound: https://www.zapsplat.com/music/action-enter-spacy/
-Win Sound: https://freesound.org/people/Fupicat/sounds/521642/
-
-* [Repo](https://github.com/UniKittyCorns/MemoryCardGame)
-
-* [Deployed Site](https://unikittycorns.github.io/MemoryCardGame/about-us/)
-
->| Team Members  | Github  | LinkedIn  |
->|---|---|---|
+>| Julianne Vela | [Github](https://github.com/julianne-vela)   | [LinkedIn](https://www.linkedin.com/in/juliannevela/)   |
+>| [Devon Wolfkiel](https://devon-wolf.github.io/portfolio/) |  [Github](https://github.com/devon-wolf)  |  [LinkedIn](https://www.linkedin.com/in/devon-wolfkiel/)  |
 >| Katrina Cloyd | [Github](https://github.com/KatrinaCloyd?tab=repositories)   | [LinkedIn](https://www.linkedin.com/in/katrinacloyd/)   |
-
+>| Cammeron Zimmerman |  [Github]()  |  [LinkedIn]()  |
 >| Casey Warren |  [Github]()  |  [LinkedIn]()  |
 ___
 ___
-### RobinFood
+### Aspir.io
 
 > Description 
->>
-* [Repo](https://github.com/Robin-Food/Robin-Food)
+>>Aspir.io is a full-stack Trello-like job application tracker that allows job seekers to track, plan, and keep notes on their job search all in one place. Built using React, React-Beautiful-DnD, Express.js, Node.js, PostgreSQL, and Material-UI.
 
-* [Deployed Site](https://robin-food.github.io/Robin-Food/)
+* [Repo](https://github.com/ACL-JobsTeam)
+
+* [Deployed Site](https://aspir-io.netlify.app/)
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
->| Erich Sauer | [Github](https://github.com/erichsauer)   | [LinkedIn](https://www.linkedin.com/in/erichsauer/)   |
->
->| Tyler Farris |  [Github]()  |  [LinkedIn]()  |
->| Dylan White |  [Github]()  |  [LinkedIn]()  |
+>| Colin Bassett |  [Github](https://github.com/ccbass)  |  [LinkedIn](https://www.linkedin.com/in/colin-bassett/)  |
+>| Taylor Reichner |  [Github](https://github.com/taylorreichner)  |  [LinkedIn](https://www.linkedin.com/in/taylor-reichner-stickel/)  |
+>| Victor Williams |  [Github](https://github.com/classalto)  |  [LinkedIn](https://www.linkedin.com/in/victor-b-williams/)  |
+___
 
->Graduate who didn't present because he secured a role before projects began:
+### Graduate who didn't present because he secured a role before projects began:
 >| Cherno Badjan |  [Github](https://github.com/Cherno-Badjan)  |  [LinkedIn](https://www.linkedin.com/in/chernobadjan/)  |
