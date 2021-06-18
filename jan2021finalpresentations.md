@@ -23,7 +23,6 @@ ___
 >| Josie Cantu |  [Github](https://github.com/JosieMCantu)  |  [LinkedIn](www.linkedin.com/in/josiemcantu/)  |
 >| Julianne Vela | [Github](https://github.com/julianne-vela)   | [LinkedIn](https://www.linkedin.com/in/juliannevela/)   |
 >| [Devon Wolfkiel](https://devon-wolf.github.io/portfolio/) |  [Github](https://github.com/devon-wolf)  |  [LinkedIn](https://www.linkedin.com/in/devon-wolfkiel/)  |
->| Vance Mills |  [Github](https://github.com/Vance-M)  |  [LinkedIn](https://www.linkedin.com/in/vance-mills/)  |
 ___
 ___
 ### BeatWavez
@@ -61,8 +60,6 @@ ___
 >| Parker Sequeira | [Github](https://github.com/phsequeira)   | [LinkedIn](https://www.linkedin.com/in/parker-sequeira-b0a96886/)   |
 >| Sam Gerber | [Github](https://github.com/sgerpdx)   | [LinkedIn](https://www.linkedin.com/in/sam-h-gerber/)   |
 >| Stephen Tamiesie | [Github](https://github.com/stamiesie)   | [LinkedIn](https://www.linkedin.com/in/stephen-tamiesie/)   |
-
->| Edmond Zhan |  [Github](https://github.com/zhaned)  |  [LinkedIn](https://www.linkedin.com/in/edmondzhan/)  |
 ___
 ___
 ### Socket Jockey
@@ -89,24 +86,18 @@ ___
 ### IdleIsle
 
 > Description 
->>You're a person who is having trouble managing their diet, you heard about healthy macros and you wanted an easy way of managing them. Rather than going the old school pen and a notepad route; you wanted an app that was accessible and customizable to fit your needs. This is nutri-Project never before has tracking what you eat and what is in what you eat. Its simple as making a user account, entering in your dietary restrictions and remembering to log the foods you've eaten on a particular day.
-Resources Used:
+>>Idle Play browser game about building a village on an Island.
 
-JS
-HTML
-CSS
-Chart.js
-animate.css
+* [Repo](https://github.com/Alchemy-IdleGame-Project)
 
-* [Repo](https://github.com/Dominique-Sakrisson/nutri-project)
-
-* [Deployed Site](https://dominique-sakrisson.github.io/nutri-project/)
+* [Deployed Site]()
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
 >| Minh Ngo | [Github](https://github.com/ngominh0224)   | [LinkedIn](https://www.linkedin.com/in/minhnngo/)   |
 >| Dominique Sakrisson |  [Github](https://github.com/Dominique-Sakrisson)  |  [LinkedIn](https://www.linkedin.com/in/dominique-sakrisson/)  |
-
+>| Vance Mills |  [Github](https://github.com/Vance-M)  |  [LinkedIn](https://www.linkedin.com/in/vance-mills/)  |
+>| Edmond Zhan |  [Github](https://github.com/zhaned)  |  [LinkedIn](https://www.linkedin.com/in/edmondzhan/)  |
 ___
 ___
 ### Fantasy BasketBall
