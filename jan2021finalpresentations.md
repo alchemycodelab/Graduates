@@ -68,7 +68,7 @@ ___
 
 * [Repo](https://github.com/Alchemy-IdleGame-Project)
 
-* [Deployed Site]()
+* [Deployed Site](https://idleisle.netlify.app/)
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
