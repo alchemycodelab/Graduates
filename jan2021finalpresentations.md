@@ -81,7 +81,9 @@ ___
 ### GIM LLC.
 
 > Description 
->>_One day, while cleaning the server trays, a kind young soul was thrust into a strange fate.. Their soul now lives within the server and needs your help to be set free..._
+>>One day, while cleaning the server trays, a kind young soul was thrust into a strange fate.. Their soul now lives within the server and needs your help to be set free...
+GIM LLC is an escape room inspired website where players work together to find clues to free the ghost!
+Built using React.js and socket.io for multiplayer interactivity.
 
 
 * [Repo](https://github.com/GIM-LLC)
