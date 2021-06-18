@@ -24,7 +24,6 @@ ___
 >| Julianne Vela | [Github](https://github.com/julianne-vela)   | [LinkedIn](https://www.linkedin.com/in/juliannevela/)   |
 >| Devon Wolfkiel |  [Github]()  |  [LinkedIn]()  |
 >| Vance Mills |  [Github]()  |  [LinkedIn]()  |
->| Anthony Rosario |  [Github]()  |  [LinkedIn]()  |
 ___
 ___
 ### BeatWavez
@@ -78,11 +77,16 @@ ___
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
 >| Kat Sauma | [Github]()   | [LinkedIn]()   |
-
->
+>| Jake Thrasher |  [Github](https://github.com/jakethrasher)  |  [LinkedIn](https://www.linkedin.com/in/m-jake-thrasher/)  |
+>| Patrick Hrabos |  [Github]()  |  [LinkedIn]()  |
+>| Erich Sauer | [Github](https://github.com/erichsauer)   | [LinkedIn](https://www.linkedin.com/in/erichsauer/)   |
+>| Tyler Farris |  [Github]()  |  [LinkedIn]()  |
+>| Dylan White |  [Github]()  |  [LinkedIn]()  |
+>| Stephen leisy |  [Github]()  |  [LinkedIn]()  |
+>| Anthony Rosario |  [Github]()  |  [LinkedIn]()  |
 ___
 ___
-### Nutrizone
+### IdleIsle
 
 > Description 
 >>You're a person who is having trouble managing their diet, you heard about healthy macros and you wanted an easy way of managing them. Rather than going the old school pen and a notepad route; you wanted an app that was accessible and customizable to fit your needs. This is nutri-Project never before has tracking what you eat and what is in what you eat. Its simple as making a user account, entering in your dietary restrictions and remembering to log the foods you've eaten on a particular day.
@@ -102,8 +106,7 @@ animate.css
 >|---|---|---|
 >| Minh Ngo | [Github](https://github.com/ngominh0224)   | [LinkedIn](https://www.linkedin.com/in/minhnngo/)   |
 >| Dominique Sakrisson |  [Github]()  |  [LinkedIn]()  |
->| Jake Thrasher |  [Github](https://github.com/jakethrasher)  |  [LinkedIn](https://www.linkedin.com/in/m-jake-thrasher/)  |
->| Patrick Hrabos |  [Github]()  |  [LinkedIn]()  |
+
 ___
 ___
 ### Fantasy BasketBall
