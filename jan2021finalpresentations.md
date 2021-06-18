@@ -48,9 +48,9 @@ ___
 > Description 
 >>A Jackbox-style karaoke party app that allows users to create and join party rooms, manage a queue, chat with each other, and (most importantly) sing along to lyrics videos pulled via the YouTube API. This app was built mobile-first with React and Express, utilizing socket.io and material UI.
 
-* [Repo](https://beatwavez.com)
+* [Repo](https://github.com/the-treblemakers)
 
-* [Deployed Site](https://github.com/the-treblemakers)
+* [Deployed Site](https://beatwavez.com)
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
