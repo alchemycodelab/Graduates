@@ -4,14 +4,10 @@ Fourth and final projects made in a 10-day sprint, from concept through delivery
 
 First one week sprint, from concept through delivery, after week 3 in the program.  Focus was vanilla JS, HTML and CSS, and teams built this working remotely.
 ___
-### Forgotten Logic
+### Angle On
 
 > Description 
->>Forgotten Logic is a puzzle game app; in its current form its main feature is an 8-tile sliding number puzzle, though there is infrastructure in place for more logic puzzles to be added.
-While it may not seem so, there are actual health benefits that logic puzzles provide. They stimulate intricate parts of the brain that do not usually get exercised, encourage systematic thinking, boost brain activity and are pivitol in child development.
-
-#Angle On
-Angle On is a full-stack application that allows filmmakers from underrepresented communities to request support through donations. We integrated OAuth to utilize Google's authentication process and to create a seamless login experience. We create our own cookie for additional control over session length and storage. Each user profile has its own registration, application, and dashboard. An AWS S3 bucket hosts our image URLs so they can be transferred and stored in our relational database. Built with React Hooks | NodeJS | Express | PostgreSQL | AWS S3 | Google OAuth | Material UI 
+>>Angle On is a full-stack application that allows filmmakers from underrepresented communities to request support through donations. We integrated OAuth to utilize Google's authentication process and to create a seamless login experience. We create our own cookie for additional control over session length and storage. Each user profile has its own registration, application, and dashboard. An AWS S3 bucket hosts our image URLs so they can be transferred and stored in our relational database. Built with React Hooks | NodeJS | Express | PostgreSQL | AWS S3 | Google OAuth | Material UI
 
 * [Repo](https://github.com/Angle-On)
 
