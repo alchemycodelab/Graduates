@@ -48,18 +48,18 @@ ___
 >
 ___
 ___
-### Budgetverse
+### Greeting Art
 
 > Description 
 >>
-* [Repo](https://github.com/sls1881/budgetverse)
+* [Repo](greeting-art.netlify.app/)
 
-* [Deployed Site](https://sls1881.github.io/budgetverse/)
+* [Deployed Site](https://github.com/Greeting-Art)
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
 
->| Cherno Badjan |  [Github](https://github.com/Cherno-Badjan)  |  [LinkedIn](https://www.linkedin.com/in/chernobadjan/)  |
+
 >| Moises Depena |  [Github]()  |  [LinkedIn]()  |
 >| Edmond Zhan |  [Github](https://github.com/zhaned)  |  [LinkedIn](https://www.linkedin.com/in/edmondzhan/)  |
 ___
@@ -175,3 +175,6 @@ ___
 >
 >| Tyler Farris |  [Github]()  |  [LinkedIn]()  |
 >| Dylan White |  [Github]()  |  [LinkedIn]()  |
+
+>Graduate who didn't present because he secured a role before projects began:
+>| Cherno Badjan |  [Github](https://github.com/Cherno-Badjan)  |  [LinkedIn](https://www.linkedin.com/in/chernobadjan/)  |
