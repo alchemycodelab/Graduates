@@ -50,7 +50,7 @@ ___
 ### Greeting Art
 
 > Description 
->>
+>>Greeting Art is an app that allows users to easily create randomized, unique digital art, and to send that art to others in eCard form.  Our product facilitates the creation of a unique digital asset that the user can save, send or share as a personalized digital greeting to a friend or loved-one.
 * [Repo](https://github.com/Greeting-Art)
 
 * [Deployed Site](http://greeting-art.netlify.app/)
