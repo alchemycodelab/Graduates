@@ -1,6 +1,6 @@
-# Alchemy Class Projects - Fall 2020 Cohort
+# Alchemy JAN 2021 Cohort Final Presentations
 
-## Foundations I
+Fourth and final projects made in a 10-day sprint, from concept through delivery, after week 24 in the program. These students have just finished more than 800 hours of our professional software development training. They've learned how to harness FullStack JavaScript capabilities using React, Redux, Node, Express, and PostgreSQL, all while working on fully remote teams.
 
 First one week sprint, from concept through delivery, after week 3 in the program.  Focus was vanilla JS, HTML and CSS, and teams built this working remotely.
 ___
@@ -10,17 +10,21 @@ ___
 >>Forgotten Logic is a puzzle game app; in its current form its main feature is an 8-tile sliding number puzzle, though there is infrastructure in place for more logic puzzles to be added.
 While it may not seem so, there are actual health benefits that logic puzzles provide. They stimulate intricate parts of the brain that do not usually get exercised, encourage systematic thinking, boost brain activity and are pivitol in child development.
 
-Resources Used
-Our animations come from Animate.css - the script is included in the HTML files.
+#Angle On
+Angle On is a full-stack application that allows filmmakers from underrepresented communities to request support through donations. We integrated OAuth to utilize Google's authentication process and to create a seamless login experience. We create our own cookie for additional control over session length and storage. Each user profile has its own registration, application, and dashboard. An AWS S3 bucket hosts our image URLs so they can be transferred and stored in our relational database. Built with React Hooks | NodeJS | Express | PostgreSQL | AWS S3 | Google OAuth | Material UI 
 
-The tile movement map is based on Danish Mughal's Sliding Puzzle.
+* [Repo](https://github.com/Angle-On)
 
-* [Repo](https://github.com/forgotten-logic/logic-app)
-
-* [Deployed Site](https://forgotten-logic.github.io/logic-app/)
+* [Deployed Site](https://dazzling-heyrovsky-02bd75.netlify.app/)
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
+>| [Cierra McDonald](https://cierra-mcdonald.netlify.app/) |  [Github](https://github.com/Cierra-McDonald)  |  [LinkedIn](https://www.linkedin.com/in/cierra-mcdonald/)  |
+>| Zina Mohamed |  [Github]()  |  [LinkedIn]()  |
+>| Claudia Mazriegos |  [Github]()  |  [LinkedIn]()  |
+>| [Katilyn Wiggins](www.katilynwiggins.com) |  [Github]()  |  [LinkedIn]()  |
+>| Shelby Strouse | [Github](https://github.com/sls1881)   | [LinkedIn](https://www.linkedin.com/in/shelby-strouse-full-stack-eng/)   |
+>| Josie Cantu |  [Github](https://github.com/JosieMCantu)  |  [LinkedIn](www.linkedin.com/in/josiemcantu/)  |
 >| Julianne Vela | [Github](https://github.com/julianne-vela)   | [LinkedIn](https://www.linkedin.com/in/juliannevela/)   |
 >| Devon Wolfkiel |  [Github]()  |  [LinkedIn]()  |
 >| Vance Mills |  [Github]()  |  [LinkedIn]()  |
@@ -58,7 +62,7 @@ ___
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
->| Shelby Strouse | [Github](https://github.com/sls1881)   | [LinkedIn](https://www.linkedin.com/in/shelby-strouse-full-stack-eng/)   |
+
 >| Cherno Badjan |  [Github](https://github.com/Cherno-Badjan)  |  [LinkedIn](https://www.linkedin.com/in/chernobadjan/)  |
 >| Moises Depena |  [Github]()  |  [LinkedIn]()  |
 >| Edmond Zhan |  [Github](https://github.com/zhaned)  |  [LinkedIn](https://www.linkedin.com/in/edmondzhan/)  |
@@ -75,9 +79,7 @@ ___
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
 >| Kat Sauma | [Github]()   | [LinkedIn]()   |
->| Cierra McDonald |  [Github](https://github.com/Cierra-McDonald)  |  [LinkedIn](https://www.linkedin.com/in/cierra-mcdonald/)  |
->| Zina Mohamed |  [Github]()  |  [LinkedIn]()  |
->| Claudia Mazriegos |  [Github]()  |  [LinkedIn]()  |
+
 >| Lori Winston | [Github](https://github.com/LoriWinston)   | [LinkedIn](https://www.linkedin.com/in/loriwinston/)   |
 ___
 ___
@@ -132,8 +134,8 @@ ___
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
 >| Stephen Tamiesie | [Github](https://github.com/stamiesie)   | [LinkedIn](https://www.linkedin.com/in/stephen-tamiesie/)   |
->| Josie Cantu |  [Github](https://github.com/JosieMCantu)  |  [LinkedIn](www.linkedin.com/in/josiemcantu/)  |
->| katilyn Wiggins |  [Github]()  |  [LinkedIn]()  |
+
+
 >| Stephen leisy |  [Github]()  |  [LinkedIn]()  |
 ___
 ___
