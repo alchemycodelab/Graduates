@@ -56,7 +56,7 @@ ___
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
->Missael Ortiz | |  [Github](https://github.com/MissaelOrtiz)  |  [LinkedIn](https://www.linkedin.com/in/missaelortiz/)  |
+>| Missael Ortiz |  [Github](https://github.com/MissaelOrtiz)  |  [LinkedIn](https://www.linkedin.com/in/missaelortiz/)  |
 >| Maria Ortiz-Lopez|  [Github](https://github.com/MariaOrtiz1)  |  [LinkedIn](https://www.linkedin.com/in/maria-ortiz-lopez-54392a211/)  |
 >| Sam Sumiya| [Github](https://github.com/chenerychen)   | [LinkedIn](https://www.linkedin.com/in/chenerychen/)   |
 >| Dimitra Weinstein|  [Github](github.com/dimitraweinstein)  |  [LinkedIn](https://www.linkedin.com/in/dimitraweinstein/)  |
