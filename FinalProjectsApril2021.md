@@ -20,7 +20,7 @@ ___
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
->| [.Kubisiak](https://bienventory.netlify.app/) |  [Github](https://github.com/mckubisiak)  |  [LinkedIn](https://github.com/mckubisiak)  |
+>| [.Kubisiak](https://www.kubisiak.dev/) |  [Github](https://github.com/mckubisiak)  |  [LinkedIn](https://github.com/mckubisiak)  |
 >| Isaac Ewing |  [Github](https://github.com/Isaac-Ewing)  |  [LinkedIn](https://www.linkedin.com/in/isaac-ewing/)  |
 >| Ben Francka|  [Github](github.com/BenFrancka)  |  [LinkedIn](https://www.linkedin.com/in/ben-francka/)  |
 >| Diana Josephine Drakos|  [Github](https://github.com/dianajodrakos)  |  [LinkedIn](https://www.linkedin.com/in/dj-drakos)  |
