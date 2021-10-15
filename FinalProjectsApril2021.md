@@ -1,4 +1,4 @@
-# Alchemy JAN 2021 Cohort Final Presentations
+# Alchemy April 2021 Cohort Final Presentations
 
 Welcome to [Alchemy Code Lab](https://www.alchemycodelab.com)! 
 
