@@ -52,7 +52,7 @@ ___
 
 * [Repo](https://github.com/Tales-of-Torr-2)
 
-* [Deployed Site](tales-of-torr2.netlify.app/)
+* [Deployed Site](https://tales-of-torr2.netlify.app/)
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
