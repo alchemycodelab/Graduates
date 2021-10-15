@@ -8,24 +8,6 @@ Our emphasis on process, regular testing and immersive lab sessions allow our gr
 
 ## Below is an overview of the apps presented and links to their sites and video of their presentations. Links to the LinkedIn profile or personal site of each student is also included.
 ___
-### Bienventory
-
-> Description 
-
->>Bienventory allows restaurants to create an inventory with the scope of ingredients and meals. They would be able to upload CSV files to update their inventory and return a notification. This solves the problem of less than accurate monthly manual inventory, and allows the user to get accurate, up to date information about their restaurant inventory. Built with React Hooks | NodeJS | Express | PostgreSQL | PapaParse | Google OAuth | Material UI | Twilio
-
-* [Repo](https://github.com/Bienventory)
-
-* [Deployed Site](https://bienventory.netlify.app/)
-
->| Team Members  | Github  | LinkedIn  |
->|---|---|---|
->| [.Kubisiak](https://www.kubisiak.dev/) |  [Github](https://github.com/mckubisiak)  |  [LinkedIn](https://github.com/mckubisiak)  |
->| Isaac Ewing |  [Github](https://github.com/Isaac-Ewing)  |  [LinkedIn](https://www.linkedin.com/in/isaac-ewing/)  |
->| Ben Francka|  [Github](github.com/BenFrancka)  |  [LinkedIn](https://www.linkedin.com/in/ben-francka/)  |
->| Diana Josephine Drakos|  [Github](https://github.com/dianajodrakos)  |  [LinkedIn](https://www.linkedin.com/in/dj-drakos)  |
-
-___
 ### Vibn
 
 > Description 
@@ -44,22 +26,22 @@ ___
 >| Sofia Tejada | [Github](https://github.com/sofiatejada)   | [LinkedIn](https://linkedin.com/in/sofianais)   |
 
 ___
-### Tales of Torr 2: The Fight Against The Forces of the Undead
+### Bienventory
 
 > Description 
 
->>Tales of Torr 2 is a sequel to the hit game Tales of Torr: The Quest to Defeat the Everlasting Dragon, where you take on the role of a hero fighting their way deep into undead infested lands. Play as one of four uniquely interesting heroes, buy gear and potions, and fight through hordes of undead in a retro JRPG style game. Built with React | NodeJS | Express | PostgreSQL | Google OAuth |
+>>Bienventory allows restaurants to create an inventory with the scope of ingredients and meals. They would be able to upload CSV files to update their inventory and return a notification. This solves the problem of less than accurate monthly manual inventory, and allows the user to get accurate, up to date information about their restaurant inventory. Built with React Hooks | NodeJS | Express | PostgreSQL | PapaParse | Google OAuth | Material UI | Twilio
 
-* [Repo](https://github.com/Tales-of-Torr-2)
+* [Repo](https://github.com/Bienventory)
 
-* [Deployed Site](https://tales-of-torr2.netlify.app/)
+* [Deployed Site](https://bienventory.netlify.app/)
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
->Missael Ortiz | |  [Github](https://github.com/MissaelOrtiz)  |  [LinkedIn](https://www.linkedin.com/in/missaelortiz/)  |
->| Maria Ortiz-Lopez|  [Github](https://github.com/MariaOrtiz1)  |  [LinkedIn](https://www.linkedin.com/in/maria-ortiz-lopez-54392a211/)  |
->| Sam Sumiya| [Github](https://github.com/chenerychen)   | [LinkedIn](https://www.linkedin.com/in/chenerychen/)   |
->| Dimitra Weinstein|  [Github](github.com/dimitraweinstein)  |  [LinkedIn](https://www.linkedin.com/in/dimitraweinstein/)  |
+>| [.Kubisiak](https://www.kubisiak.dev/) |  [Github](https://github.com/mckubisiak)  |  [LinkedIn](https://github.com/mckubisiak)  |
+>| Isaac Ewing |  [Github](https://github.com/Isaac-Ewing)  |  [LinkedIn](https://www.linkedin.com/in/isaac-ewing/)  |
+>| Ben Francka|  [Github](github.com/BenFrancka)  |  [LinkedIn](https://www.linkedin.com/in/ben-francka/)  |
+>| Diana Josephine Drakos|  [Github](https://github.com/dianajodrakos)  |  [LinkedIn](https://www.linkedin.com/in/dj-drakos)  |
 
 ___
 ### NewGrowthPDX
@@ -77,6 +59,24 @@ ___
 >| Derek Hudgins| [Github](https://github.com/DerekHudgins)   | [LinkedIn](https://www.linkedin.com/in/derekhudgins/)   |
 >| [Kyle Mayer](https://www.kylemayer.dev)|  [Github](https://github.com/kylemayer)  |  [LinkedIn](https://www.linkedin.com/in/kyle-mayer88/)  |
 >| Sean Simpson |  [Github](https://github.com/simpson-sean)  |  [LinkedIn](www.linkedin.com/in/simpson-sean)  |
+
+___
+### Tales of Torr 2: The Fight Against The Forces of the Undead
+
+> Description 
+
+>>Tales of Torr 2 is a sequel to the hit game Tales of Torr: The Quest to Defeat the Everlasting Dragon, where you take on the role of a hero fighting their way deep into undead infested lands. Play as one of four uniquely interesting heroes, buy gear and potions, and fight through hordes of undead in a retro JRPG style game. Built with React | NodeJS | Express | PostgreSQL | Google OAuth |
+
+* [Repo](https://github.com/Tales-of-Torr-2)
+
+* [Deployed Site](https://tales-of-torr2.netlify.app/)
+
+>| Team Members  | Github  | LinkedIn  |
+>|---|---|---|
+>Missael Ortiz | |  [Github](https://github.com/MissaelOrtiz)  |  [LinkedIn](https://www.linkedin.com/in/missaelortiz/)  |
+>| Maria Ortiz-Lopez|  [Github](https://github.com/MariaOrtiz1)  |  [LinkedIn](https://www.linkedin.com/in/maria-ortiz-lopez-54392a211/)  |
+>| Sam Sumiya| [Github](https://github.com/chenerychen)   | [LinkedIn](https://www.linkedin.com/in/chenerychen/)   |
+>| Dimitra Weinstein|  [Github](github.com/dimitraweinstein)  |  [LinkedIn](https://www.linkedin.com/in/dimitraweinstein/)  |
 
 ___
 If you have questions about the program or want to talk about hiring one of our grads, please connect with Shannon Rasimas at shannon@alchemycodelab.com!
